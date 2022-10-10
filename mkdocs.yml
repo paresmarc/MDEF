@@ -30,8 +30,8 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
-    - icon: [Marc Parés]
-      link: "https://www.paresmarc.com/"
+#    - icon: [Marc Parés]
+#      link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter
