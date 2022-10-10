@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Marc Parés - MDEF & Fab Lab Barcelona
+site_name: Marc Parés - MDEF
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
-copyright: Copyleft 2021 "Marc Parés" - GNU Free Documentation License
+copyright: Marc Parés © 2022
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -31,11 +31,11 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/paresmarc"
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
