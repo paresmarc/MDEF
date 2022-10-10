@@ -10,4 +10,4 @@ Currently, interested in local craftsmanship such as ceramics, but also in moder
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Personal Portfolio **[Marc Parés](https://paresmarc.com/)**

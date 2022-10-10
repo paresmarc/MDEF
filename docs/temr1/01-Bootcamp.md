@@ -5,4 +5,8 @@ hide:
 
 # Bootcamp
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My fight
+
+“La Bisbal d’Empordà” — family (ancestors)
+Is one of the traditional centres of pottery in Catalonia.
+Nowadays, there is a need to share this tradition with new generations, expand it internationally, and keep researching and developing ancient techniques while combining them with modern technologies and digital fabrication.
