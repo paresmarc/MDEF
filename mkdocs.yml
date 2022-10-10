@@ -18,9 +18,9 @@ nav:
           - Bootcamp: Term1/01-Bootcamp.md
           - AoWS: Term1/02-Atlas of Weak Signals.md
 
-      - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+#      - Term 2:
+#          - digi: term1/01-Bootcamp.md
+#          - studio: term1/01-Bootcamp.md
 
 
 
@@ -30,8 +30,8 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
-#    - icon: fontawesome/brands/website
-#      link: "https://www.paresmarc.com/"
+    - icon: fontawesome/brands/medium
+      link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter

@@ -12,9 +12,9 @@ My fight
 Is one of the traditional centres of pottery in Catalonia.
 Nowadays, there is a need to share this tradition with new generations, expand it internationally, and keep researching and developing ancient techniques while combining them with modern technologies and digital fabrication.
 
-![](../images/MarcPares_MyFight.jpg)
+![](../files/MarcPares_MyFight.pdf)
 
 
 Self Development
 
-![](../images/MarcPares_SelfDevelop.jpg)
+![](../files/MarcPares_SelfDevelop.pdf)
