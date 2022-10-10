@@ -6,22 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/Term%201/01-Bootcamp/</loc>
+         <lastmod>2022-10-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/Term%201/02-Atlas%20of%20Weak%20Signals/</loc>
+         <lastmod>2022-10-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2022-10-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/01-Bootcamp/</loc>
-         <lastmod>2022-10-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/02-Atlas%20of%20Weak%20Signals/</loc>
          <lastmod>2022-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
