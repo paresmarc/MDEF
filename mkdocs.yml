@@ -31,7 +31,7 @@ extra:
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
 #    - icon: fontawesome/brands/website
-#      link: "https://www.paresmarc.com/"
+      link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter
@@ -45,7 +45,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: e26e11
+    primary: blue
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
