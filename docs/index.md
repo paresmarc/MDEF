@@ -1,5 +1,3 @@
- ## Welcome
-
 Welcome to my page. Take a look around!
 
 MDEF — Master in Design for Emergent Futures
