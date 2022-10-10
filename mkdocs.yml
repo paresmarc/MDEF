@@ -30,8 +30,8 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
-#    - icon: [Marc Parés]
-#      link: "https://www.paresmarc.com/"
+    - icon: fontawesome/brands/github
+      link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter
@@ -45,8 +45,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: orange
+    primary: rgb(76, 161, 254);
+    accent: rgb(226, 110, 17);
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
