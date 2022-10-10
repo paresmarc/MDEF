@@ -1,7 +1,13 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/mrcprs.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Product designer from Barcelona with the ambition of searching new shapes between technology and crafts.
+
+Materializing his concepts on pieces with a duality of functionality and attraction. His products are defined by eye appeal, ergonomic, tactility and an intrinsic concept.
+
+Currently, interested in local craftsmanship such as ceramics, but also in modern technologies of production such as 3D printing.
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
