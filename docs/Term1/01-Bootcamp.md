@@ -18,3 +18,8 @@ Nowadays, there is a need to share this tradition with new generations, expand i
 Self Development
 
 ![](../images/MarcPares_SelfDevelop.jpg)
+
+Course Expectations
+
+
+![](../images/MarcPares_CourseExpectations.jpg)
