@@ -2,7 +2,7 @@
 site_name: Marc Parés - MDEF
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
-copyright: Marc Parés   ©   2022
+copyright: Marc Parés    ©    2022
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -15,6 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
+          - MyFight: Term1/00-MyFight.md
           - Bootcamp: Term1/01-Bootcamp.md
           - AoWS: Term1/02-Atlas of Weak Signals.md
 
