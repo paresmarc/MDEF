@@ -54,7 +54,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: images/mrcprs.jpg
   features:
     - instant
     - navigation.expand
