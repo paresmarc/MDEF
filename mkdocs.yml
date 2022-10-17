@@ -2,7 +2,7 @@
 site_name: Marc Parés - MDEF
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
-copyright: Marc Parés    ©    2022
+copyright: Marc Parés  ©  2022
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -24,15 +24,13 @@ nav:
 #          - studio: term1/01-Bootcamp.md
 
 
-
-
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
-#    - icon: images/mrcprs_.jpg
-#      link: "https://www.paresmarc.com/"
+    - icon: images/mrcprs_2.png
+      link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
     - icon: fontawesome/brands/twitter
