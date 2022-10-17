@@ -15,9 +15,9 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - MyFight: Term1/00-MyFight.md
           - Bootcamp: Term1/01-Bootcamp.md
           - AoWS: Term1/02-Atlas of Weak Signals.md
+          - MyFight: Term1/03-DesignStudio.md
 
 #      - Term 2:
 #          - digi: term1/01-Bootcamp.md
@@ -29,7 +29,7 @@ extra:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
 #    - icon: fontawesome/brands/medium
 #      link: https://medium.com/
-    - icon: images/mrcprs_2.png
+    - icon: fontawesome/solid/link
       link: "https://www.paresmarc.com/"
     - icon: fontawesome/brands/instagram
       link: "https://www.instagram.com/mrcprs/"
