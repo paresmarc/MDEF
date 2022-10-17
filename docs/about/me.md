@@ -1,8 +1,6 @@
 # About
 
-![](../images/mrcprs.jpg) width="200" height="100"
-
-img src="../images/mrcprs.jpg)" width="200" height="100"
+![](../images/mrcprs.jpg)
 
 Product designer from Barcelona with the ambition of searching new shapes between technology and crafts.
 
