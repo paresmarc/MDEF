@@ -25,3 +25,5 @@ So the main point is to help craftsmen expand their work and to have them again 
 
 
 ![](../images/AoWS_Map.jpg)
+
+[* Miro Board * - Invitation needed](https://miro.com/app/board/uXjVPOjb84I=/)
