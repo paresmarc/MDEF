@@ -6,7 +6,5 @@ Product designer from Barcelona with the ambition of searching new shapes betwee
 
 Materializing his concepts into pieces with a duality of functionality and visual attraction. His products are defined by eye appeal, ergonomics, an intrinsic concept, and the intention of creating an experience.
 
-In this master, I am looking forward to developing a system to help local artisans share and continue their traditional techniques while combining them with innovative production processes.
-
 
 Personal Portfolio — [Marc Parés](https://paresmarc.com/)
