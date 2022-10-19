@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/Term1/01-Bootcamp/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/Term1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/Term1/03-DesignStudio/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/Term1/04-Bio-Agri0/</loc>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
