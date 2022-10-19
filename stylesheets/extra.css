@@ -21,8 +21,8 @@
   }
 
   .md-typeset .md-button--primary {
-    border-width: 1px;
-    border-color: rgb(219, 219, 219);
+    border-width: 0px;
+    border-color: rgb(32, 32, 32);
     border-radius: 4px;
   }
 
