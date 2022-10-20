@@ -1,6 +1,8 @@
 # About
 
-![](../images/mrcprs.jpg =250x)
+![](../images/mrcprs.jpg)
+
+<img src="https://paresmarc.github.io/MDEF/images/mrcprs.jpg" width="50" height="50"/>
 
 
 Product designer from Barcelona with the ambition of searching new shapes between technology and crafts. Currently, interested in local craftsmanship such as ceramics, but also in modern technologies of production such as 3D printing.
