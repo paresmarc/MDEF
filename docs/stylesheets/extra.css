@@ -22,7 +22,7 @@
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(32, 32, 32);
+    border-color: rgb(219, 219, 219);
     border-radius: 4px;
   }
 
@@ -33,7 +33,7 @@
 }
 
 .md-typeset h2 {
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .mdc-typography--body2 {

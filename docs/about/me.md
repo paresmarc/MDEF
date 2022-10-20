@@ -1,6 +1,7 @@
 # About
 
-![](../images/mrcprs.jpg)
+![](../images/mrcprs.jpg =250x)
+
 
 Product designer from Barcelona with the ambition of searching new shapes between technology and crafts. Currently, interested in local craftsmanship such as ceramics, but also in modern technologies of production such as 3D printing.
 
