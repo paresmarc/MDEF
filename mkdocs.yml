@@ -115,19 +115,3 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
-
-
-<html>
-  <head>
-    <style>
-     body {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
-}
-
-body a {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
-
-}
-    </style>
-  </head>
-  </html>
