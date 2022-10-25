@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
+## Atlas of Weak Signals
 
 The Atlas of Weak Signals is a toolkit to find critical areas to develop a project. A weak signal can be defined as an inflexion point where a problem or a situation can be worked on in the present to become better in the future. Playing and combining weak signals helps to explore new fields while organizing ideas and brainstorming, and is useful for the design process. 
 

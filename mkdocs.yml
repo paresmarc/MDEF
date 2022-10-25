@@ -1,10 +1,10 @@
 # Replace the text below to customize your site
-site_name: Marc Parés - MDEF
+site_name: Marc Parés - Iaac
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
 copyright: Marc Parés  ©  2022
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
+repo_name: 'Marc Parés'
+site_url: 'https://paresmarc.github.io/MDEF/'
 repo_url: 'https://paresmarc.github.io/MDEF/'
 
 
@@ -115,3 +115,19 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+
+
+<html>
+  <head>
+    <style>
+     body {
+cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
+}
+
+body a {
+cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
+
+}
+    </style>
+  </head>
+  </html>
