@@ -5,7 +5,7 @@ site_author: Marc Parés
 copyright: Marc Parés  ©  2022
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+repo_url: 'https://paresmarc.github.io/MDEF/'
 
 
 nav:
@@ -78,9 +78,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - codehilite:
-      guess_lang: false
+      guess_lang: true
   - toc:
-      permalink: true
+      permalink: false
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
