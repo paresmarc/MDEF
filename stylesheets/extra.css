@@ -49,6 +49,7 @@ body {
 }
 
 a {
-       cursor: url('https://paresmarc.github.io/MDEF/images/o.jpg')3 3, auto;
-     }
-     
+    margin: 0;
+    height: 100vh;
+    cursor: url('https://paresmarc.github.io/MDEF/images/o.jpg')3 3, auto;
+}
