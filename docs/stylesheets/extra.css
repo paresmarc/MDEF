@@ -47,3 +47,7 @@ body {
   height: 100vh;
   cursor: url('https://paresmarc.github.io/MDEF/images/b.jpg')3 3, auto;
 }
+
+button:hover {
+  cursor: url('https://paresmarc.github.io/MDEF/images/o.jpg')3 3, auto;
+}
