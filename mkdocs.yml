@@ -52,7 +52,7 @@ theme:
     text: Be Vietnam
     code: Cutive Mono
   icon:
-    logo: images/mrcprs.jpg
+    logo: material/memory
   favicon: images/mrcprs.jpg
   features:
     - instant
