@@ -29,7 +29,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(0, 0, 0);
 }
 
 .md-typeset h2 {
@@ -46,11 +46,11 @@
   <head>
     <style>
      body {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
+cursor: url('https://paresmarc.github.io/MDEF/images/b.jpg')3 3, auto;
 }
 
 body a {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
+cursor: url('https://paresmarc.github.io/MDEF/images/o.jpg')3 3, auto;
 
 }
     </style>
