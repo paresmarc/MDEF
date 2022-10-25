@@ -34,19 +34,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
-
-
-<html>
-  <head>
-    <style>
-     body {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
-}
-
-body a {
-cursor: url('https://paresmarc.github.io/MDEF/images/mrcprs.jpg')3 3, auto;
-
-}
-    </style>
-  </head>
-  </html>
