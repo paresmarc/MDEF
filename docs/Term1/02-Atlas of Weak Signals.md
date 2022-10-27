@@ -11,7 +11,9 @@ First of all, I selected different cards randomly to get familiar with them and 
 
 We were asked to select one of the cards that interested us for our project and search for an example around the city of Barcelona. I chose Personal Fabrication, a Random Trigger Card that focuses on how in the future the population might have a personal lab to produce their products and be able to repair them when one breaks. People will be the consumers but also the producers of the objects, food, clothes, and all the other necessities in our daily lives. Similar to the kitchens that we have nowadays, we would have a space with new production processes, such as 3D printers, laser machines, CNC cutters, etc.
 
-<img src="https://paresmarc.github.io/MDEF/images/PersFab_2.jpg" width="75%" height="75%" class="center"/>
+## Card Image
+
+<img src="https://paresmarc.github.io/MDEF/images/PersFab_22.jpg" width="75%" height="75%" class="center"/>
 
 My images are about a problem that I had in my fridge and a simple solution that I found. One of the shelves had a plastic piece that helped store food, but it broke and it was impossible to fix. The fridge doesn’t have to replace pieces and you cannot buy new ones, so the shelf was useless because the food fell with the movement of the door. So I thought that with 3D printing I would be able to make a simple piece to help organize the food and prevent it from falling. First of all, I scanned the shelf with a 3D Scanner App to obtain the perfect dimensions and abstract shapes. Then I was able to make a 3D model of the piece based on the scanned shelf. After that, I 3D printed it, and once finished, I was able to place it in the fridge, and it fit perfectly.
 
@@ -23,7 +25,12 @@ I think this idea of community laboratories with innovative facilities can be me
 
 So the main point is to help craftsmen expand their work and to have them again as a reference for good design, and to make design promote the union of society. The intersection between Human-Machine Collaborations and Rural Futures can bring new opportunities for artisans to develop their work. With the combination of traditional techniques and innovative ones, we can generate products more attractive and interesting for future generations, revaluing the traditional processes that are getting forgotten. 
 
+## Miro Board
 
 ![](../images/AoWS_Map.jpg)
+
+![](../images/AoWS_Map1.jpg)
+
+![](../images/AoWS_Map2.jpg)
 
 [Miro Board](https://miro.com/app/board/uXjVPOjb84I=/) - Invitation needed
