@@ -11,7 +11,7 @@ First of all, I selected different cards randomly to get familiar with them and 
 
 We were asked to select one of the cards that interested us for our project and search for an example around the city of Barcelona. I chose Personal Fabrication, a Random Trigger Card that focuses on how in the future the population might have a personal lab to produce their products and be able to repair them when one breaks. People will be the consumers but also the producers of the objects, food, clothes, and all the other necessities in our daily lives. Similar to the kitchens that we have nowadays, we would have a space with new production processes, such as 3D printers, laser machines, CNC cutters, etc.
 
-## Card Image
+### Card Image
 
 <img src="https://paresmarc.github.io/MDEF/images/PersFab_22.jpg" width="75%" height="75%" class="center"/>
 
@@ -25,11 +25,15 @@ I think this idea of community laboratories with innovative facilities can be me
 
 So the main point is to help craftsmen expand their work and to have them again as a reference for good design, and to make design promote the union of society. The intersection between Human-Machine Collaborations and Rural Futures can bring new opportunities for artisans to develop their work. With the combination of traditional techniques and innovative ones, we can generate products more attractive and interesting for future generations, revaluing the traditional processes that are getting forgotten. 
 
-## Miro Board
+### Miro Board
 
 ![](../images/AoWS_Map.jpg)
 
+Digital Crafts
+
 ![](../images/AoWS_Map1.jpg)
+
+Rural and traditions
 
 ![](../images/AoWS_Map2.jpg)
 
