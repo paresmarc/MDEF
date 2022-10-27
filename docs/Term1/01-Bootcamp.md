@@ -3,9 +3,9 @@ hide:
     - toc
 ---
 
-## Bootcamp
+# Bootcamp
 
-# My Fight
+## My Fight
 
 ![](../images/MarcPares_MyFight.jpg)
 
@@ -25,7 +25,7 @@ For all this, this project aims to re-evaluate ceramics, with its traditional te
 
 
 
-# Self Development
+## Self Development
 
 Reflexion and introspection about who I am now and who I want to be at the end of the master's. A mapping of my self-present, what is my identity, what skills I have and my main interests, and the evolution I wish to have of these three sections. In general, I expect to develop myself personally, to be more open to challenges, and especially more self-confident. 
 
@@ -34,7 +34,7 @@ I used a Möbius Strip to represent my evolution because this shape seems like a
 ![](../images/MarcPares_SelfDevelop.jpg)
 
 
-# Course Expectations
+## Course Expectations
 
 Evaluation of the expectations for every seminar. What I want to learn, the skills I think I will develop, and how I have to approach every seminar to take full advantage of them.
 
