@@ -9,9 +9,10 @@ The Atlas of Weak Signals is a toolkit to find critical areas to develop a proje
 
 First of all, I selected different cards randomly to get familiar with them and discover new possible fields for our project. This atlas has different categories. First of all, we have the weak signals, separated into five fields: Design for Anthropocene, Life in the Times of Surveillance Capitalism, Kill the Heteropatriarchy, After the Nation-State, and Life after AI - The End of Work, those are the main areas of action. The other types of card are Random Triggers, Areas of Opportunity and Challenges. 
 
+### Card Image
+
 We were asked to select one of the cards that interested us for our project and search for an example around the city of Barcelona. I chose Personal Fabrication, a Random Trigger Card that focuses on how in the future the population might have a personal lab to produce their products and be able to repair them when one breaks. People will be the consumers but also the producers of the objects, food, clothes, and all the other necessities in our daily lives. Similar to the kitchens that we have nowadays, we would have a space with new production processes, such as 3D printers, laser machines, CNC cutters, etc.
 
-### Card Image
 
 <img src="https://paresmarc.github.io/MDEF/images/PersFab_22.jpg" width="75%" height="75%" class="center"/>
 
