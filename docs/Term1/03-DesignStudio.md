@@ -37,5 +37,3 @@ The way you prototype is what matters. The process and the experience of prototy
 This role can be an autobiographical design process where you dialogue with yourself, asking who you are and what you want to achieve. Finally, the documentation of the process is more important than the result. You may write down or film the prototype to preserve your design process in order to be able to replicate it or upgrade it in the future, as well as to share it and make it an open-source project.
 
 ## New Workspace
-
-![](../images/workspaces.jpg)
