@@ -25,7 +25,7 @@ Asks how people will use the final product, making statistics and getting result
 ### Role 3: The prototype as a research archetype
 The prototype as a research archetype as embodiments of concepts, understandings or design spaces that can be argued to constitute contributions to the discipline. Research archetype to physicalize a specific concept (create multiple examples). Critical and conceptual designs also follow the third role because help you, as a designer, to understand the possibilities. Understand yourself and know what I am capable of, what you can do with your local environment and how materials we have around shape the product.
 
-The third one, I used it in some way while working on a project for Roc Parés, an artist who specializes in interactive communication research. He wanted to develop an analog machine, activated with human energy, that creates a relationship between the user and a water drop. He had this concept, so we needed to design the machine, so we started doing some drawings, 3D models, and renders to conceptualize the design. The [Water Drop Viewer](https://paresmarc.com/waterdropviewer) had the intention of making the user interact with it and create an experience while looking at a drop of water. This piece reflected on the concept of an exhibition “What is possible and what is not”. Through the trial and error of the artistic process, it hopes to make users consider the possibilities of art.
+The third one, I used it in some way while working on a project for Roc Parés, an artist who specializes in interactive communication research. He wanted to develop an analog machine, activated with human energy, that creates a relationship between the user and a water drop. He had this concept, so we needed to design the machine, so we started doing some drawings, 3D models, and renders to conceptualize the design. The (link) had the intention of making the user interact with it and create an experience while looking at a drop of water. This piece reflected on the concept of an exhibition “What is possible and what is not”. Through the trial and error of the artistic process, it hopes to make users consider the possibilities of art.
 
 ![](../images/waterdrop.jpg)
 
@@ -37,3 +37,5 @@ The way you prototype is what matters. The process and the experience of prototy
 This role can be an autobiographical design process where you dialogue with yourself, asking who you are and what you want to achieve. Finally, the documentation of the process is more important than the result. You may write down or film the prototype to preserve your design process in order to be able to replicate it or upgrade it in the future, as well as to share it and make it an open-source project.
 
 ## New Workspace
+
+![](../images/workspaces.jpg)
