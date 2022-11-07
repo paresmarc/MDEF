@@ -8,7 +8,8 @@ hide:
 
 ### Creation and expectations
 
-![](../images/companion1.jpg)
+<img src="https://paresmarc.github.io/MDEF/images/companion1.jpg" width="75%" height="75%"/>
+
 
 Ecology:
 Reflect about saving water
@@ -27,7 +28,7 @@ Bottle that makes you suffer during a day to realize all necessary things and th
 
 ### Living with it 24 hours
 
-![](../images/companion2.jpg)
+<img src="https://paresmarc.github.io/MDEF/images/companion2.jpg" width="75%" height="75%"/>
 
 Living together for 24 hours
 
@@ -50,7 +51,7 @@ Why does it matter?
 
 How would it be to share a craft experience in the physical world and import it into the digital?
 
-![](../images/MarcPares_2ppClay.mov)
+<img src="https://paresmarc.github.io/MDEF/images/MarcPares_2ppClay.mov" width="75%" height="75%"/>
 
 I started my day by trying to experiment with clay. I wanted to feel it with all my senses. I went to a ceramic studio, and I mixed clay powder with water to start experimenting. Then I poured the liquid clay into a cast board to make it more controllable.
 
@@ -64,7 +65,7 @@ On the other hand, others enjoyed the process, they played with the clay while t
 
 I decided to bring that analogue and physical experience to the digital world. I selected one of the creations, the weird ball. I 3D scanned it to make a digital copy, document it, and preserve it. The preservation of art and traditions is something so important for culture and society, but we are losing it because the world is evolving fast. I used the EM3D app, which works with infrared, to generate a 3D model of the clay ball.
 
-<div style="padding:180.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/767853338?h=d4f7b1feea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:95%;" title="1PP 24h Experience"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:180.43% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/767853338?h=d4f7b1feea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;" title="1PP 24h Experience"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 After that, I prepared the file for 3D printing with Cura, and I tried to print it with the same characteristics. The result was brilliant, both shapes looked similar. I find this process so interesting because it permits every person to model something in 3D. You don’t need to learn 3D digital software, only with your hands and by experiencing the physical sensations of the clay can you generate something unique and then import it into the digital world. 
