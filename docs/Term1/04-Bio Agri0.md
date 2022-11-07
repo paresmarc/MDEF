@@ -7,16 +7,16 @@ hide:
 
 ## Scientific method
 
-Introduction to science of Biology. Scientific method and focus on microbiology.
+Introduction to science of Biology.
+Scientific method and focus on microbiology.
 
-### Practice 1 - 18.10
+### Practice - 18.10
 
 Creating a sterile environment and preparation sterile petri dishes.
+Observation trough microscopy.
 
-## Microbiology
+## Article
 
-Biochemistry and Metabolism definition and the basic pathways.
+### Argiles en el sol: PROCESSOS I4SICO-QUIMICS
 
-### Practice 2 - 19.10
-
-Preparing Liquid Culture: Spirulina and Kombucha. Bioplastics.
+Reading scientific papers. Thinking about planetary wellbeing.
