@@ -7,7 +7,7 @@ hide:
 
 ## My Fight
 
-![](../images/MarcPares_MyFight.jpg)
+![MyFight](../images/MarcPares_MyFight.jpg)
 
 Traditions have always been of great value to society and have created great cultural wealth. Each region has its own, and they have developed and evolved over the years. To keep them alive, they must be transmitted from generation to generation, verbally and in writing, so that their existence will be known in the future, but also through community events where specific techniques and knowledge are taught.
 
