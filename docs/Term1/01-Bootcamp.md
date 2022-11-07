@@ -7,7 +7,7 @@ hide:
 
 ## My Fight
 
-![](../images/MarcPares_MyFight.jpg)
+![MyFight](../images/MarcPares_MyFight.jpg){ loading=lazy }
 
 Traditions have always been of great value to society and have created great cultural wealth. Each region has its own, and they have developed and evolved over the years. To keep them alive, they must be transmitted from generation to generation, verbally and in writing, so that their existence will be known in the future, but also through community events where specific techniques and knowledge are taught.
 
@@ -31,11 +31,11 @@ Reflexion and introspection about who I am now and who I want to be at the end o
 
 I used a Möbius Strip to represent my evolution because this shape seems like a current strip but is made with a single surface and it creates a loop. So, inserting my present and future self into this kind of surface represents that the past, present and future are connected and, in my case, what I want to be in the future, my expectations and my auto-critic vision also define my present self.
 
-![](../images/MarcPares_SelfDevelop.jpg)
+![](../images/MarcPares_SelfDevelop.jpg){ loading=lazy }
 
 
 ## Course Expectations
 
 Evaluation of the expectations for every seminar. What I want to learn, the skills I think I will develop, and how I have to approach every seminar to take full advantage of them.
 
-![](../images/MarcPares_CourseExpectations.jpg)
+![](../images/MarcPares_CourseExpectations.jpg){ loading=lazy }
