@@ -17,6 +17,6 @@ Observation trough microscopy.
 
 ## Article
 
-### Argiles en el sol: PROCESSOS I4SICO-QUIMICS
+### Argiles en el sol: Processos Psico-Quimics
 
 Reading scientific papers. Thinking about planetary wellbeing.
