@@ -30,4 +30,4 @@ So the main point is to help craftsmen expand their work and to have them again 
 
 ### Miro Board
 
-<iframe width="100%" height="150%" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=-849,-951,1609,1092&embedId=921045269196" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=-849,-951,1609,1092&embedId=921045269196" frameborder="0" scrolling="no" allowfullscreen></iframe>
