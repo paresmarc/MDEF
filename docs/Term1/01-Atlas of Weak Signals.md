@@ -28,6 +28,6 @@ I think this idea of community laboratories with innovative facilities can be me
 
 So the main point is to help craftsmen expand their work and to have them again as a reference for good design, and to make design promote the union of society. The intersection between Human-Machine Collaborations and Rural Futures can bring new opportunities for artisans to develop their work. With the combination of traditional techniques and innovative ones, we can generate products more attractive and interesting for future generations, revaluing the traditional processes that are getting forgotten. 
 
-### Miro Board
+### Design Space
 
-<iframe width="100%" height="600" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=-849,-951,1609,1092&embedId=921045269196" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=-849,-951,1609,1092&embedId=921045269196" frameborder="0" scrolling="no" allowfullscreen></iframe>
