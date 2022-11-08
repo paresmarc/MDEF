@@ -36,4 +36,4 @@ This role can be an autobiographical design process where you dialogue with your
 
 ## New Workspace
 
-![](../images/workspaces.jpg)
+![](../images/workspaces2.png)
