@@ -65,7 +65,7 @@ On the other hand, others enjoyed the process, they played with the clay while t
 
 I decided to bring that analogue and physical experience to the digital world. I selected one of the creations, the weird ball. I 3D scanned it to make a digital copy, document it, and preserve it. The preservation of art and traditions is something so important for culture and society, but we are losing it because the world is evolving fast. I used the EM3D app, which works with infrared, to generate a 3D model of the clay ball.
 
-<img src="https://paresmarc.github.io/MDEF/images/1pp_3dScan.gif" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/1pp_3dScan.gif" width="33%" height="33%"/>
 
 After that, I prepared the file for 3D printing with Cura, and I tried to print it with the same characteristics. The result was brilliant, both shapes looked similar. I find this process so interesting because it permits every person to model something in 3D. You don’t need to learn 3D digital software, only with your hands and by experiencing the physical sensations of the clay can you generate something unique and then import it into the digital world. 
 
