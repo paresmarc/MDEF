@@ -1,5 +1,10 @@
 :root>* {
 
+    /* bar sup */
+    --md-primary-fg-color: rgb(64, 146, 133);
+    --md-primary-fg-color--light: rgb(64, 146, 133);
+    --md-primary-fg-color--dark: rgb(64, 146, 133);
+
     /* footer up */
     --md-footer-bg-color: rgb(230, 230, 230);
     /* footer tipo */
