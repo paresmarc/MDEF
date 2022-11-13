@@ -23,11 +23,14 @@
     --md-accent-fg-color: rgb(64, 146, 133);
     /* background */
     --md-default-bg-color: rgb(247, 247, 247);
+
+    /* color titles */
+    --md-default-fg-color--light: rgb(64, 146, 133);
 }
 
 /* barres laterals */
 .md-sidebar {
-    background-color: rgb(237, 237, 237);
+    background-color: rgb(242, 242, 242);
 }
 
 
