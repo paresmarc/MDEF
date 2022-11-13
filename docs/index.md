@@ -1,4 +1,4 @@
-Welcome to my page.
+## Welcome to my page.
 
 Product designer from Barcelona with the ambition of searching new shapes between technology and crafts.
 
