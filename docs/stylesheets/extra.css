@@ -22,9 +22,12 @@
     /* hover */
     --md-accent-fg-color: rgb(64, 146, 133);
     /* background */
-    --md-default-bg-color: rgb(245, 245, 245);
+    --md-default-bg-color: rgb(247, 247, 247);
+}
 
-
+/* barres laterals */
+.md-sidebar {
+    background-color: rgb(235, 235, 235);
 }
 
 
