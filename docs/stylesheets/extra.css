@@ -6,7 +6,7 @@
     --md-primary-fg-color--dark: rgb(64, 146, 133);
 
     /* footer up */
-    --md-footer-bg-color: rgb(230, 230, 230);
+    --md-footer-bg-color: rgb(237, 237, 237);
     /* footer tipo */
     --md-footer-fg-color: rgb(0, 0, 0);
     /* footer down */
@@ -27,7 +27,7 @@
 
 /* barres laterals */
 .md-sidebar {
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(237, 237, 237);
 }
 
 
