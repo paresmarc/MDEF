@@ -1,30 +1,24 @@
 :root>* {
 
-    /* columns? */
-    --md-footer-bg-color: rgb(222, 16, 16);
-    --md-footer-fg-color: rgb(219, 190, 26);
-    --md-footer-bg-color--dark: rgb(87, 219, 26);
-    --md-footer-fg-color--lighter:  rgb(26, 219, 142);
-    --md-footer-fg-color--light:  rgb(26, 151, 219);
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: rgb(29, 26, 219);
-    --md-accent-fg-color: rgb(158, 26, 219);
-    /* background */
-    --md-default-bg-color: rgb(219, 26, 145);
-
-    /*
+    /* footer up */
     --md-footer-bg-color: rgb(225, 225, 225);
+    /* footer tipo */
     --md-footer-fg-color: rgb(32, 32, 32);
+    /* footer down */
     --md-footer-bg-color--dark: rgb(64, 146, 133);
+    /* footer link tipo */
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
+    /* footer tipo */
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    /* links */
     --md-typeset-a-color: rgb(64, 146, 133);
+    /* hover */
     --md-accent-fg-color: rgb(64, 146, 133);
+    /* background */
     --md-default-bg-color: rgb(240, 240, 240);
-     */
+
 
 }
 
