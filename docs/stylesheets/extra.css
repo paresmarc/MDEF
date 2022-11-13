@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-footer-bg-color: rgb(245, 245, 245);
+    --md-footer-bg-color: rgb(225, 225, 225);
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: rgb(64, 146, 133);
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
@@ -9,7 +9,7 @@
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(64, 146, 133);
     --md-accent-fg-color: rgb(64, 146, 133);
-    --md-default-bg-color: rgb(245, 245, 245);
+    --md-default-bg-color: rgb(205, 205, 205);
 
 }
 
