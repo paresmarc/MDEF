@@ -2,7 +2,7 @@
 
     --md-footer-bg-color: rgb(64, 146, 133);
     --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: rgb(94, 146, 133);
+    --md-footer-bg-color--dark: rgb(64, 146, 133);
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
@@ -24,7 +24,7 @@
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(0, 0, 0);
+    border-color: rgb(225, 225, 225);
     border-radius: 4px;
   }
 
