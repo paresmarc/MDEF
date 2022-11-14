@@ -25,26 +25,18 @@ Observation trough microscopy.
 
 <div class="row">
   <div class="column">
-<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" alt="Snow" style="width:100%">
   </div>
 </div>
-
-<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
 
 
 ### Practice - 25.10
