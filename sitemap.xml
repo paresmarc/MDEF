@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://paresmarc.github.io/MDEF/project/design-space/</loc>
+         <lastmod>2022-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://paresmarc.github.io/MDEF/project/project/</loc>
          <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
