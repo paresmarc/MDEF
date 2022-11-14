@@ -77,7 +77,7 @@ body {
 body:hover {
     margin: 0;
     height: 100vh;
-    cursor: url('https://paresmarc.github.io/MDEF/images/g.jpg')3 3, auto;
+    cursor: url('https://paresmarc.github.io/MDEF/images/g2.jpg')3 3, auto;
 }
 */
 
@@ -89,5 +89,5 @@ body:hover {
 
 ul li:hover ~ .cursor
 {
-  url:'https://paresmarc.github.io/MDEF/images/g.jpg'3 3, auto;
+  url:'https://paresmarc.github.io/MDEF/images/g2.jpg'3 3, auto;
 }
