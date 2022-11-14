@@ -23,20 +23,28 @@ Observation trough microscopy.
 - 20g Agar
 
 
-<div class="row">
-  <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" alt="Snow" style="width:100%">
-  </div>
+<div class="image123">
+    <div class="imgContainer">
+        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" height="200" width="200"/>
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg"/ height="200" width="200"/>
+        <p>This is image 2</p>
+    </div>
+    <div class="imgContainer">
+         <img src="/images/tv.gif"/ height="200" width="200"/>
+        <p>This is image 3</p>
+    </div>
 </div>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
 
 
 ### Practice - 25.10
