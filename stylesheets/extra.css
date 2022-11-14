@@ -15,8 +15,15 @@
     --md-footer-fg-color--lighter:  rgb(0, 0, 0);
     /* footer tipo */
     --md-footer-fg-color--light:  rgb(32, 32, 32);
+
+    --mdc-typography-headline6-font-family: 'Montserrat', sans-serif;
+    --mdc-typography-font-family: 'Montserrat', sans-serif;
+
+    /*
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    */
+
     /* links */
     --md-typeset-a-color: rgb(64, 146, 133);
     /* hover */
