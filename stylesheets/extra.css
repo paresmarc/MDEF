@@ -43,6 +43,10 @@
     background-color: rgb(244, 244, 244);
 }
 
+.imgContainer{
+    float:left;
+}
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
