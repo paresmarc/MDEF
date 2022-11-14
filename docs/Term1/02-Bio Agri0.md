@@ -22,6 +22,22 @@ Observation trough microscopy.
 - 5g  Sugar
 - 20g Agar
 
+
+<div class="row">
+  <div class="column">
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
+  </div>
+  <div class="column">
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
+  </div>
+  <div class="column">
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
+  </div>
+  <div class="column">
+  <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
+  </div>
+</div>
+
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
