@@ -66,7 +66,7 @@
     font-size: 14px;
 }
 
-
+/*
 body {
   margin: 0;
   height: 100vh;
@@ -78,4 +78,16 @@ body:hover {
     margin: 0;
     height: 100vh;
     cursor: url('https://paresmarc.github.io/MDEF/images/g.jpg')3 3, auto;
+}
+*/
+
+.cursor
+{
+  url:'https://paresmarc.github.io/MDEF/images/b.jpg'3 3, auto;
+
+}
+
+ul li:hover ~ .cursor
+{
+  url:'https://paresmarc.github.io/MDEF/images/g.jpg'3 3, auto;
 }
