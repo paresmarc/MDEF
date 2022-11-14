@@ -54,7 +54,8 @@ theme:
 #    primary: black
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+#    text: Be Vietnam
+    text: Montserrat
     code: Cutive Mono
 
   logo: images/tetra_logo.png
