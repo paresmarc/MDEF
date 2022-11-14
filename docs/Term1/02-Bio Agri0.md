@@ -15,6 +15,34 @@ Scientific method and focus on microbiology.
 Creating a sterile environment and preparation sterile petri dishes.
 Observation trough microscopy.
 
+**DIY Yeast medium**
+
+- 10g Bovril
+- 20g Aminoacids - build up muscle
+- 5g  Sugar
+- 20g Agar
+
+<img src="https://paresmarc.github.io/MDEF/images/petridishes0.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/petridishes3.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/petridishes2.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/petridishes1.jpg" width="50%" height="50%" class="center"/>
+
+
+### Practice - 25.10
+
+Creating Bioplastics with 
+
+<img src="https://paresmarc.github.io/MDEF/images/biop1.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/biop2.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/biop4.jpg" width="50%" height="50%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/biop3.jpg" width="50%" height="50%" class="center"/>
+
 ## Article
 
 ### Argiles en el sol: Processos Psico-Quimics
