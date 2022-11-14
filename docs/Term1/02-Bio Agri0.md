@@ -17,26 +17,24 @@ Observation trough microscopy.
 
 **DIY Yeast medium**
 
-- 10g Bovril
-- 20g Aminoacids - build up muscle
-- 5g  Sugar
-- 20g Agar
+- 10g   Bovril
+- 20g   Aminoacids - build up muscle
+- 5g    Sugar
+- 20g   Agar
 
 
 <div class="image123">
     <div class="imgContainer">
-        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" height="200" width="200"/>
-        <p>This is image 1</p>
+        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg"
+        height="100%" width="200"/>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg"/ height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="/images/tv.gif"/ height="200" width="200"/>
-        <p>This is image 3</p>
+        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg"
+        height="100%" width="200"/>
     </div>
 </div>
+
+--------
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
 
