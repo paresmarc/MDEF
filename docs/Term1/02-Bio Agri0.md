@@ -22,26 +22,26 @@ Observation trough microscopy.
 - 5g  Sugar
 - 20g Agar
 
-<img src="https://paresmarc.github.io/MDEF/images/petridishes0.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/petridishes3.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/petridishes2.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/petridishes1.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
 
 
 ### Practice - 25.10
 
-Creating Bioplastics with 
+Creating Bioplastics with
 
-<img src="https://paresmarc.github.io/MDEF/images/biop1.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/biop2.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/biop4.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg" width="50%" height="50%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/biop3.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg" width="50%" height="50%" class="center"/>
 
 ## Article
 
