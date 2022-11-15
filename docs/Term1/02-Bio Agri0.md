@@ -46,7 +46,7 @@ Observation trough microscopy.
 </div>
 
 --------
-
+<!--
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="50%" height="50%" class="center"/>
@@ -54,12 +54,36 @@ Observation trough microscopy.
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
+-->
 
 
 ### Practice - 25.10
 
 Creating Bioplastics with
 
+<div class="image123">
+    <div class="imgContainer">
+        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg"
+        height="100%" width="200"/>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg"
+        height="100%" width="200"/>
+    </div>
+</div>
+
+<div class="image123">
+    <div class="imgContainer">
+        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg"
+        height="100%" width="200"/>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg"
+        height="100%" width="200"/>
+    </div>
+</div>
+
+<!--
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg" width="50%" height="50%" class="center"/>
@@ -67,6 +91,8 @@ Creating Bioplastics with
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg" width="50%" height="50%" class="center"/>
+-->
+
 
 ## Article
 
