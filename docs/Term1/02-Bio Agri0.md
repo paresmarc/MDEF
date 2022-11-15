@@ -23,7 +23,7 @@ Observation trough microscopy.
 - 20g   Agar
 
 
-<div class="image123">
+<div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg"
         height="100%" width="200"/>
@@ -34,7 +34,7 @@ Observation trough microscopy.
     </div>
 </div>
 
-<div class="image123">
+<div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg"
         height="100%" width="200"/>
@@ -61,7 +61,7 @@ Observation trough microscopy.
 
 Creating Bioplastics with
 
-<div class="image123">
+<div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg"
         height="100%" width="200"/>
@@ -72,7 +72,7 @@ Creating Bioplastics with
     </div>
 </div>
 
-<div class="image123">
+<div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg"
         height="100%" width="200"/>
