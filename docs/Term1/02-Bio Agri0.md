@@ -34,6 +34,8 @@ Observation trough microscopy.
     </div>
 </div>
 
+<br>
+
 <div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg"
@@ -44,6 +46,8 @@ Observation trough microscopy.
         height="100%" width="200"/>
     </div>
 </div>
+
+<br>
 
 --------
 <!--
@@ -61,6 +65,7 @@ Observation trough microscopy.
 
 Creating Bioplastics with
 
+<!--
 <div class="image12">
     <div class="imgContainer">
         <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg"
@@ -82,8 +87,9 @@ Creating Bioplastics with
         height="50%" width="50%"/>
     </div>
 </div>
+-->
 
-<!--
+
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg" width="50%" height="50%" class="center"/>
@@ -91,7 +97,7 @@ Creating Bioplastics with
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg" width="50%" height="50%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg" width="50%" height="50%" class="center"/>
--->
+
 
 
 ## Article
