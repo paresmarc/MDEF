@@ -22,6 +22,7 @@ Observation trough microscopy.
 - 5g    Sugar
 - 20g   Agar
 
+<br>
 
 <div class="image12">
     <div class="imgContainer">
@@ -35,6 +36,11 @@ Observation trough microscopy.
 </div>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div class="image12">
     <div class="imgContainer">
@@ -48,6 +54,11 @@ Observation trough microscopy.
 </div>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 --------
 <!--
@@ -60,6 +71,7 @@ Observation trough microscopy.
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="50%" height="50%" class="center"/>
 -->
 
+<br>
 
 ### Practice - 25.10
 
