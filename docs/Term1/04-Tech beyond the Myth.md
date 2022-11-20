@@ -38,3 +38,20 @@ hide:
 ## Rethink and Reconnect
 
 ### Design
+
+**Referents**
+
+
+**Tinkering**
+
+
+**Concept**
+KNOCK-KNOCK is an automatic annoying machine that knocks on your door until you open it, then it stops ... until you close it again.
+
+It wants your attention
+It wants to interrupt your life
+Takes you away from social networks
+It tries to be funny
+
+
+**Design**
