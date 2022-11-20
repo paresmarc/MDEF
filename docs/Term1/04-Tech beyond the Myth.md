@@ -24,11 +24,11 @@ hide:
 ### Forensic Control
 - Components
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer1.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer2.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer3.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer4.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer5.png" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer1.jpeg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer2.jpeg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer3.jpeg" width="100%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer4.jpeg" width="100%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer5.png" width="75%" height="50%"/>
 
 
 ## The Right to Hack
@@ -54,6 +54,7 @@ Different ideas of sound, light and behavior emerged through the chaos/ process 
 
 
 **Concept**
+
 KNOCK-KNOCK is an automatic annoying machine that knocks on your door until you open it, then it stops ... until you close it again.
 
 It wants your attention
@@ -65,8 +66,8 @@ It tries to be funny
 **Design**
 
 Door Knocker
-<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.jpeg" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.jpg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.jpg" width="75%" height="50%"/>
 
 **Reflections**
 
