@@ -22,12 +22,12 @@ hide:
 11. Researched, analyzed and understood data sheets and main functions of each component.
 
 ### Forensic Control
-- Components
+**Components**
 
 <img src="https://paresmarc.github.io/MDEF/images/tech/printer1.jpeg" width="75%" height="50%"/>
 <img src="https://paresmarc.github.io/MDEF/images/tech/printer2.jpeg" width="75%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer3.jpeg" width="100%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/printer4.jpeg" width="100%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer3.jpeg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/printer4.jpeg" width="75%" height="50%"/>
 <img src="https://paresmarc.github.io/MDEF/images/tech/printer5.png" width="75%" height="50%"/>
 
 
@@ -40,7 +40,14 @@ hide:
 ### Design
 
 **Referents**
+[Jordi Canudas](https://www.jordicanudas.com/projects/light-meets-chocolate)
+<img src="https://paresmarc.github.io/MDEF/images/tech/jordiC.jpeg" width="75%" height="50%"/>
 
+[Lolo y Sosaku](http://www.loloysosaku.com/exhibitions-events/lo-pati/)
+<img src="https://paresmarc.github.io/MDEF/images/tech/lolo.png" width="75%" height="50%"/>
+
+[Dylan Sheridan](https://www.instagram.com/p/CZ-eJNsMwcN/)
+<img src="https://paresmarc.github.io/MDEF/images/tech/dylan.png" width="75%" height="50%"/>
 
 **Tinkering**
 
@@ -66,8 +73,8 @@ It tries to be funny
 **Design**
 
 Door Knocker
-<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.jpg" width="75%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.jpg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.png" width="75%" height="50%"/>
 
 **Reflections**
 
