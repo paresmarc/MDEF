@@ -40,13 +40,17 @@ hide:
 ### Design
 
 **Referents**
+
 [Jordi Canudas](https://www.jordicanudas.com/projects/light-meets-chocolate)
+
 <img src="https://paresmarc.github.io/MDEF/images/tech/jordiC.jpeg" width="75%" height="50%"/>
 
 [Lolo y Sosaku](http://www.loloysosaku.com/exhibitions-events/lo-pati/)
+
 <img src="https://paresmarc.github.io/MDEF/images/tech/lolo.png" width="75%" height="50%"/>
 
 [Dylan Sheridan](https://www.instagram.com/p/CZ-eJNsMwcN/)
+
 <img src="https://paresmarc.github.io/MDEF/images/tech/dylan.png" width="75%" height="50%"/>
 
 **Tinkering**
@@ -73,6 +77,7 @@ It tries to be funny
 **Design**
 
 Door Knocker
+
 <img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="75%" height="50%"/>
 <img src="https://paresmarc.github.io/MDEF/images/tech/sketch.png" width="75%" height="50%"/>
 
