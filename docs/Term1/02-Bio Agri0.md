@@ -81,7 +81,7 @@ Observation trough microscopy.
 <br>
 <br>
 <br>
-
+<br>
 
 ### Practice - 25.10
 
@@ -143,7 +143,8 @@ Creating Bioplastics with
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 ## Article
 
