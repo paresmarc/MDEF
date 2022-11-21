@@ -21,7 +21,7 @@ hide:
 10. Separate the components by type (chips, motors, cables, sensors, cases).
 11. Researched, analyzed and understood data sheets and main functions of each component.
 
- <iframe width="50%" height="150%" src="https://www.youtube.com/embed/6j9kxTajb0I" title="Printer disassembling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="372" height="661" src="https://www.youtube.com/embed/6j9kxTajb0I" title="Printer disassembling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Forensic Control
 **Components**
