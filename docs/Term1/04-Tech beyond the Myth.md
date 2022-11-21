@@ -7,7 +7,7 @@ hide:
 ## Forensics of the Obsolescence
 
 ### Disassembly
-- Brother printer
+**Brother printer**
 
 1. Analyzed general functions, components and interactions.
 2. Removed main back screws and began dismantling.
@@ -20,6 +20,8 @@ hide:
 9. Separate individual components by function. Ink supply, Printing, Scanning, Sensing, Moving, Transferring.
 10. Separate the components by type (chips, motors, cables, sensors, cases).
 11. Researched, analyzed and understood data sheets and main functions of each component.
+
+ <iframe width="50%" height="50%" src="https://www.youtube.com/embed/6j9kxTajb0I" title="Printer disassembling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Forensic Control
 **Components**
@@ -43,15 +45,15 @@ hide:
 
 [Jordi Canudas](https://www.jordicanudas.com/projects/light-meets-chocolate)
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/jordiC.jpeg" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/jordiC.jpeg" width="50%" height="50%"/>
 
 [Lolo y Sosaku](http://www.loloysosaku.com/exhibitions-events/lo-pati/)
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/lolo.png" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/lolo.png" width="50%" height="50%"/>
 
 [Dylan Sheridan](https://www.instagram.com/p/CZ-eJNsMwcN/)
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/dylan.png" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/dylan.png" width="50%" height="50%"/>
 
 **Tinkering**
 
@@ -78,8 +80,8 @@ It tries to be funny
 
 Door Knocker
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="75%" height="50%"/>
 <img src="https://paresmarc.github.io/MDEF/images/tech/sketch.png" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="75%" height="50%"/>
 
 **Reflections**
 
