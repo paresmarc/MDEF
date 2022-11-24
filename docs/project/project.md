@@ -18,3 +18,7 @@ Catalonia has been a very important centre of ceramics, with several towns with 
 Ceramics is part of the popular culture of many populations, but there are fewer and fewer ceramists who can continue to work and communicate traditional techniques. In [Quart](https://www.ccma.cat/tv3/alacarta/telenoticies-comarques/els-terrissers-de-quart-reclamen-mes-proteccio-de-lofici-que-te-una-tradicio-centenaria/video/6176718/), there are only two potters left who work on ceramics, and it is not because of a lack of work but because young people see more interest in the cities and leave their towns. Therefore, there is a lack of communication about the situation, so a solution would be to promote historical memory with a museum or more pottery training options for new generations.
 
 For all this, this project aims to re-evaluate ceramics, with its traditional techniques, and bring it closer to modern society. Combining craftsmanship with innovative production processes and bringing them to the FabLab concept. The duality of craft and technology, digital crafts, local materials and traditions, gamification, local production and international distribution, co-creation, material development, and biomaterial experimentation are some of the intrinsic concepts of the project.
+
+**Questioning**
+
+Why is there a boom in ceramics in Barcelona, while at the same time traditional ceramists are losing their heritage?
