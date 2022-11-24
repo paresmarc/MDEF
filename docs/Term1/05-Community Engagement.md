@@ -9,16 +9,19 @@ hide:
 Siscode
 
 ### Classes
+
+Can Batlló
+
 **Structure**
+
 Framing
 Emergent Strategies
 Tooling
 Social presencing Theater
 
-## Visits
+**Practice**
 
-### Can Batlló
-### La Escocesa
+La Escocesa
 
 
 ## Assignment
