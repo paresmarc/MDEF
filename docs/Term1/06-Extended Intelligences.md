@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Community Engagement
+# Extended Intelligences
 ## Classes
 
 Siscode
