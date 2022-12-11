@@ -11,9 +11,13 @@ A course about Artificial Intelligence and its potential. This new technology ca
 **Concepts:**
 
 Machine Learning — Automating Tasks by providing Examples instead of Writing Instructions.
+
 Neural Net — Global Architecture capable of Self-Configuration from Examples.
+
 DataSet — Sample Data to provide to the Network.
+
 Colab — A Website that allows to run Neural Networks.
+
 Latent Space — Characteristic derived from the use of Generative Neural Networks.
 
 ### Colab
@@ -28,7 +32,7 @@ Changing Confidence
 
 **Finding me inside the latent space**
 
-Initial Image     /     Image generated with the Latent Space
+Initial Image    /     Image generated with the Latent Space
 
 <img src="https://paresmarc.github.io/MDEF/images/marccxx.png" width="75%" height="75%"/>
 
@@ -58,6 +62,7 @@ On the other hand, this machine wants to show everyone whenever aggression is ha
 The tasks that the machine should be able to do to achieve perfect detection of sexist behaviors are, in the first hand, gesture analysis. This means scanning bodies and establishing relationships between them in order to determine when one of them is invading an individual's privacy. The next one is face recognition, which scans faces and facial expressions to analyze eyes and lips. Finally, microphones register sounds and conversations to let us know if someone is harassing another person.
 
 **Dataset Format**
+
 The technology used for the correct functioning of the machine is based on "machine learning". In machine learning, algorithms are trained to find patterns and correlations in large data sets and to make the best decisions and forecasts based on that analysis. Machine learning applications improve with use and become more accurate as they have access to more data.
 
 The dataset programmed in the machine will allow the machine to be trained to correctly detect when there is sexist abuse in the clubs. The machine will learn based on questions like: "Is that a machism language?, Is that physical behavior sexist? , etc. If the machine detects something that is wrong, the next time the same situation occurs it  will know that it is not a sexist abuse and so on continuously with different situations that it captures.
@@ -75,6 +80,7 @@ Both are an excel spreadsheet where each column is an offensive phrase or word. 
 **Colab: Motion Detector**
 
 The Colab tool has been used to execute Phyton codes to detect movements within clubs.
+
 - Library name: Alphapose
 
 <img src="https://paresmarc.github.io/MDEF/images/motionScan.gif" width="100%" height="100%"/>
