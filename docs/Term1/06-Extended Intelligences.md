@@ -18,13 +18,10 @@ Changing Confidence
 
 **Finding me inside the latent space**
 
-Initial Image
+Initial Image / Image generated from the Latent Space
 
-<img src="https://paresmarc.github.io/MDEF/images/marcc.jpeg" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/marccxx.png" width="100%" height="100%"/>
 
-Image generated from the Latent Space
-
-<img src="https://paresmarc.github.io/MDEF/images/marcX.png" width="50%" height="50%"/>
 
 ## Detector of Sexist behavior in Clubs
 
