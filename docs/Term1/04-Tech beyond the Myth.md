@@ -80,8 +80,10 @@ It tries to be funny
 
 Door Knocker
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.png" width="75%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="75%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/sketch.png" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="50%" height="50%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/tech/circuit.png" width="100%" height="100%"/>
 
 **Reflections**
 
