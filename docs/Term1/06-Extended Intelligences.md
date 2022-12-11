@@ -6,6 +6,16 @@ hide:
 # Extended Intelligences
 ## AI and Machine Intelligence
 
+A course about Artificial Intelligence and its potential. This new technology can help us automate some actions and processes. During this week, we explored how AI and Machine Intelligence work, how we can apply them to our projects and design with them, and how this new tool can change our society.
+
+**Concepts:**
+
+Machine Learning — Automating Tasks by providing Examples instead of Writing Instructions.
+Neural Net — Global Architecture capable of Self-Configuration from Examples.
+DataSet — Sample Data to provide to the Network.
+Colab — A Website that allows to run Neural Networks.
+Latent Space — Characteristic derived from the use of Generative Neural Networks.
+
 ### Colab
 
 **Image Processing**
@@ -18,9 +28,9 @@ Changing Confidence
 
 **Finding me inside the latent space**
 
-Initial Image / Image generated from the Latent Space
+Initial Image     /     Image generated with the Latent Space
 
-<img src="https://paresmarc.github.io/MDEF/images/marccxx.png" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/marccxx.png" width="75%" height="75%"/>
 
 
 ## Detector of Sexist behavior in Clubs
