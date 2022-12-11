@@ -20,11 +20,11 @@ Changing Confidence
 
 Initial Image
 
-<img src="https://paresmarc.github.io/MDEF/images/marcc.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/marcc.jpeg" width="50%" height="50%"/>
 
 Image generated from the Latent Space
 
-<img src="https://paresmarc.github.io/MDEF/images/marcX.png" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/marcX.png" width="50%" height="50%"/>
 
 ## Detector of Sexist behavior in Clubs
 
@@ -63,12 +63,14 @@ First of all, we were looking for datasets to recognize offensive language.
 
 Both are an excel spreadsheet where each column is an offensive phrase or word. It was collected from tweets via keywords and hashtags.
 
+<img src="https://paresmarc.github.io/MDEF/images/DataSet_SBD.jpg" width="100%" height="100%"/>
+
 **Colab: Motion Detector**
 
 The Colab tool has been used to execute Phyton codes to detect movements within clubs.
 - Library name: Alphapose
 
-<img src="https://paresmarc.github.io/MDEF/images/DataSet_SBD.jpg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/motionScan.gif" width="100%" height="100%"/>
 
 ### Limitations & opportunities
 
