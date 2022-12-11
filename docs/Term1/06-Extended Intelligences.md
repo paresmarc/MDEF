@@ -79,7 +79,7 @@ Both are an excel spreadsheet where each column is an offensive phrase or word. 
 
 <img src="https://paresmarc.github.io/MDEF/images/DataSet_SBD.jpg" width="100%" height="100%"/>
 
-***Colab: Motion Detector***
+**Colab: Motion Detector**
 
 The Colab tool has been used to execute Phyton codes to detect movements within clubs.
 
