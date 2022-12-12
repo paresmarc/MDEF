@@ -21,4 +21,4 @@ For all this, this project aims to re-evaluate ceramics, with its traditional te
 
 **Questioning**
 
-Why is there a boom in ceramics in Barcelona, while at the same time traditional ceramists are losing their heritage?
+How is there a boom in ceramics in Barcelona, while at the same time traditional ceramists are losing their heritage?
