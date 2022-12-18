@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Marc Parés - Iaac
+site_name: Marc Parés — Iaac
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
 copyright: Marc Parés  ©  2022
@@ -23,8 +23,8 @@ nav:
 
   - Reflections Term 1:
       - Bootcamp: DS/01-Bootcamp.md
-      - AoWS: Term1/01-Atlas of Weak Signals.md
-      - Areas of Interventions: DS/02-Areas of Interventions.md
+      - Atlas of Weak Signals: Term1/01-Atlas of Weak Signals.md
+#      - Areas of Interventions: DS/02-Areas of Interventions.md
       - Bio & Agri 0: Term1/02-Bio Agri0.md
       - Roles of Prototyping: DS/03-Roles of Prototyping.md
       - Living with your own Ideas: Term1/03-Living with your own Ideas.md
