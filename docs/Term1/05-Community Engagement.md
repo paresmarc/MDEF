@@ -35,7 +35,7 @@ Giving cyclists easier access to bicycle repairs.
 
 There used to be at least one bike repairman in nearly every Dutch neighbourhood, but as bicycles have got more reliable, their workload reduced and they closed down. Nowadays there are much fewer such handymen, and the market has been taken over by larger companies. It therefore takes longer to get a bike repaired, and it can of course be difficult actually getting to the repair company.
 
-<img src="https://paresmarc.github.io/MDEF/images/mobiele.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/mobiele.png" width="50%" height="50%" class="center"/>
 
 **Current Situation:**
 The project has been going for three years, and has attracted a lot of interest. At the moment
