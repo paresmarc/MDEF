@@ -20,7 +20,7 @@ I have also used Instagram to document one of my interventions. I asked ceramici
 
 For another intervention, I used digital and printed posters to announce the workshop. For the workshop, we created a workbook to guide the experience but also to have the results documented and be able to draw conclusions from them. Finally, we made a video of the two workshops we held, explaining all the steps, the resulting clay pieces, and the conclusions and feelings everyone had.
 
-<img src="https://paresmarc.github.io/MDEF/images/pottlove.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/pottlove.jpg" width="30%" height="30%" class="center"/>
 
 My project's communication is primarily done through the website, where I upload all of my progress and keep it constantly updated, but I also have some other ideas that could help reach out to more people.
 

@@ -26,11 +26,13 @@ Finally, we did an exercise on creative communities and were assigned an exercis
 ### Creatives Community
 
 **Creative Community:**
+
 Mobiele Fietsenmaker – Mobile Bicycle Repairman
 By Giovanni Putzu mobile bicycle repairman
 The Netherlands, Brunssum
 
 **Context:**
+
 Giving cyclists easier access to bicycle repairs.
 
 There used to be at least one bike repairman in nearly every Dutch neighbourhood, but as bicycles have got more reliable, their workload reduced and they closed down. Nowadays there are much fewer such handymen, and the market has been taken over by larger companies. It therefore takes longer to get a bike repaired, and it can of course be difficult actually getting to the repair company.
@@ -38,6 +40,7 @@ There used to be at least one bike repairman in nearly every Dutch neighbourhood
 <img src="https://paresmarc.github.io/MDEF/images/mobiele.png" width="50%" height="50%" class="center"/>
 
 **Current Situation:**
+
 The project has been going for three years, and has attracted a lot of interest. At the moment
 Giovanni is the only provider of the Mobile Bicycle Repairman service, but he is ready to recruit
 other repairmen and give them busses to work in other districts. At the same time, a franchising
@@ -45,6 +48,7 @@ company ‘Fietsnet’ is preparing a full-scale national project to provide thi
 vans) all over the country.
 
 **Engagement & Limits:**
+
 Society: Providing an easy way for people to have their bikes fixed stimulates people to use their
 bikes more.
 Environment: Renovating the bikes prolongs the life cycle of the product.
@@ -54,13 +58,17 @@ means the provider fulfills a clear need.
 Some limits could be for people who need this service regularly.
 
 **Theory of Change:**
+
 Designing bikes that are easy to dismantle and reassemble and a standard set of spare parts.
 Designing suitably light and green mobile repair vans.
 Designing software and equipment to optimise the logistics of the service.
 
 **Design Challenges and Opportunities:**
+
 Make a similar system as car insurances.
 
 ### La Escocesa
+
+La Escocesa is an artist-led contemporary visual arts organisation and residency space managed collectively through the artists.
 
 <img src="https://paresmarc.github.io/MDEF/images/laEscocesa.jpg" width="50%" height="50%" class="center"/>
