@@ -10,6 +10,8 @@ hide:
 Introduction to science of Biology.
 Scientific method and focus on microbiology.
 
+I started this seminar with a sceptical mindset because I have never studied Biology, so I was a little scared of not being able to follow the classes. I enjoyed learning all these new theoretical things about biology, agriculture, scientific papers, microscopy, etc., but also all the practices because I think that is an easy way to get engaged and learn while doing things with others. Following are some of my favorite practices we did during this seminar and some images I took.
+
 ### Practice - 18.10
 
 Creating a sterile environment and preparation sterile petri dishes.
@@ -85,7 +87,7 @@ Observation trough microscopy.
 
 ### Practice - 25.10
 
-Creating Bioplastics with
+Creating Bioplastics
 
 <div class="image12">
     <div class="imgContainer">
