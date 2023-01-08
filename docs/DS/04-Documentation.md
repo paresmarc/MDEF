@@ -14,9 +14,13 @@ I decided to document my process through photos, videos, notes, visual maps, and
 
 I am interested in the concept of preservation. I define this idea as a way to save a present or past creation so you or others can understand it and continue the work in the future. So, I think new technologies can be helpful to preserve these designs. For example, 3D scanning can make a copy of a physical object to save it in the digital world, so it will last forever, or at least as long as the Internet. Also, having this 3D digital model allows you to make copies or prototypes with 3D printing or other digital fabrication tools and share them with everyone, so anyone can have it digitally or physically.
 
+<img src="https://paresmarc.github.io/MDEF/images/1pp_3dScan.gif" width="30%" height="30%" class="center"/>
+
 I have also used Instagram to document one of my interventions. I asked ceramicists to share with me the type of clay they use and its origin. I posted images of a piece from each craftsman and a photo of the label of the clay used for each piece. With this, I was able to share the outputs of the intervention with other ceramists, and I started creating a community around this topic.
 
 For another intervention, I used digital and printed posters to announce the workshop. For the workshop, we created a workbook to guide the experience but also to have the results documented and be able to draw conclusions from them. Finally, we made a video of the two workshops we held, explaining all the steps, the resulting clay pieces, and the conclusions and feelings everyone had.
+
+<img src="https://paresmarc.github.io/MDEF/images/pottlove.jpg" width="50%" height="50%" class="center"/>
 
 My project's communication is primarily done through the website, where I upload all of my progress and keep it constantly updated, but I also have some other ideas that could help reach out to more people.
 
@@ -67,6 +71,8 @@ Instagram account to get information abut the origin of clay of ceramists, schoo
 Is it true that we use local clay? Which are the characteristics of local clay and advantages and disadvantages over the imported one? Transport, management and storage are highly polluting? Ukraine is one of the major sources of clay of the world. How war have affected the supply chain of clay around the world? How Ukraine has based its economy on the extraction and export of clay?
 
 Catalonia always had a large amount of clay, therefore the extensive traditions and culture around ceramics from a long time ago. Nowadays there is a boom around ceramics, large amount of people, of different ages and backgrounds are interested in ceramics.Also the mental health situation is creating new activities around ceramics. Search of midfulness experiences.
+
+<img src="https://paresmarc.github.io/MDEF/images/whereclay.jpg" width="50%" height="50%" class="center"/>
 
 ### Possible Communication Ideas
 

@@ -4,9 +4,6 @@ hide:
 ---
 
 # Community Engagement
-## Classes
-
-Siscode
 
 ### Can Batlló
 
@@ -16,10 +13,10 @@ Markel gave us a tour of the Coòpolis neighbourhood and talked about a cooperat
 
 During the week at Coòpolis we also learned about facilitation and explored a deck of cards called "Group Works". I found these cards very interesting to visualise all the categories that exist, and it's a fun and practical way to learn to expand your own limits. I chose the "Playfullness" card because it seems to me that it is very important to always incorporate a game component in all projects, and at the same time, it seemed to me to be a concept that was defined by the very concept of the cards. Also, I looked at another card, "Power of Restrictions", because during my design process, I always feel that having restrictions makes the design easier sometimes. This concept is related to the "blank page", where a creative gets lost because of the infinite possibilities of creation.
 
-<img src="https://paresmarc.github.io/MDEF/images/GroupCards1.jpg" width="50%" height="50%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/GroupCards2.jpg" width="50%" height="50%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/GroupCards3.jpg" width="50%" height="50%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/GroupCards4.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/GroupCards1.jpg" width="30%" height="30%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/GroupCards2.jpg" width="30%" height="30%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/GroupCards3.jpg" width="30%" height="30%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/GroupCards4.jpg" width="30%" height="30%" class="center"/>
 
 Finally, we did an exercise on creative communities and were assigned an exercise that I have documented below.
 
@@ -62,7 +59,7 @@ Designing suitably light and green mobile repair vans.
 Designing software and equipment to optimise the logistics of the service.
 
 **Design Challenges and Opportunities:**
-Make a similar system as car insurances. 
+Make a similar system as car insurances.
 
 ### La Escocesa
 
