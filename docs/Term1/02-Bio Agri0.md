@@ -148,8 +148,31 @@ Creating Bioplastics
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Article
 
 ### Argiles en el sol: Processos Psico-Quimics
+by Giovanni Pardini
+Istituto per la Chimica del Terreno, CNR, Pisa, Italia
 
 Reading scientific papers. Thinking about planetary wellbeing.
+
+The most interesting aspect of the solid phase of the soil is given by the existence, in variable quantities, of clay minerals that constitute the seat of the main physical and chemical properties of the soil itself. The structure and permeability, and also the global dynamics of nutrients and pollutants is strongly influenced by the amount and type of clays present in the soil.
+
+Clay minerals are characterized by having particular properties that depend mainly on their structure and surface charge density. Those with a T-O-T lattice (tetrahedron-octahedron-tetrahedron), better known in soil mineralogy for 2:1 structures, have isomorphous substitutions inside the crystal lattice, so residual negative charges originate that will of being neutralized by cations. Others, with a T-O (1:1) lattice, generally have no substitutions, and the negative charges appear at the edges of the structures, corresponding to the Si-O terminals.
+
+Clays can take on a colloidal character, linked mainly to the dimensions of the particles. A colloidal clay particle, a clay micelle with hydrogen ions as counterions, can be represented as a colloidal macroanion that comes from the dissociation in water of a hypothetical aluminosilicic acid.
