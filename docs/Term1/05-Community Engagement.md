@@ -16,8 +16,6 @@ During the week at Coòpolis we also learned about facilitation and explored a d
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards1.jpg" width="30%" height="30%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards2.jpg" width="30%" height="30%" class="center"/>
 
-<br>
-
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards3.jpg" width="30%" height="30%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards4.jpg" width="30%" height="30%" class="center"/>
 
