@@ -72,16 +72,17 @@ Make a similar system as car insurances, so clients pay per month and have a ful
 
 ### Reflections
 
-During this week I have learned a lot of tools to get immersed in a community and how to become one member more. My project is about ceramics and local traditions, so I decided to start working with ceramicists from Barcelona. I started thinking on doing a workshop to interact with clay and reflect on our feelings and sensations. Working with clay can be a mindfulness process where you have to understand the material and its qualities to achieve what you want and also you have to be patient waiting the rythm that clay needs.
+During this week, I have learned a lot of tools to get immersed in a community and how to become one member more. My project is about ceramics and local traditions, so I decided to start working with ceramicists from Barcelona. I started thinking about doing a workshop to interact with clay and reflect on our feelings and sensations. Working with clay can be a mindful process where you have to understand the material and its qualities to achieve what you want and also be patient while waiting for the rhythm that clay needs.
 
-Together with Marielle, who is looking for love boundaries and also interested in pottery, we organised a workshop in a pottery coworking studio in Poblenou, Barcelona, El Torn. We had contact with the organiser of the coworking so it was easy to start engaging people to join the workshop. Before doing this workshop we did one with our Iaac classmates to practice and see how people follow our instructions and have some feedback.
+Together with Marielle, who is looking for love boundaries and also interested in pottery, we organised a workshop in a pottery coworking studio in Poblenou, Barcelona, called El Torn. We had contact with the organiser of the coworking, so it was easy to start engaging people to join the workshop. Before doing this workshop, we did one with our Iaac classmates to practise and see how people follow our instructions and get some feedback.
 
-For El Torn workshop we prepared a workbook to have a guide, and participants have something physical to follow, and also to collect feedback to analyse after. The activity was about playing with clay and thinking about our feelings and trying to find our own definition of love. The workshop went really well, people opened and shared their feelings, they created lots of different clay shapes to define love and the environment was comfortable and save for everyone.
+For the El Torn workshop, we prepared a workbook to have a guide, so participants have something physical to follow, and also to collect feedback to analyse after. The activity was about playing with clay, thinking about our feelings, and trying to find our own definition of love. The workshop went really well, people opened up and shared their feelings, they created lots of different clay shapes to define love and the environment was comfortable and safe for everyone.
 
-With this intervention I have learned contact people and engage them, how to prepare a workshop for a group, how to guide and create a save environment and to participate and be one more of the group to experience in a first person perspective.
+With this intervention, I have learned how to contact people and engage them, how to prepare a workshop for a group, how to guide and create a safe environment, and how to participate and be one more member of the group to experience it from a first-person perspective.
 
 <img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="50%" height="50%" class="center"/>
 
+<img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="30%" height="30%" class="center"/>
 
 
 ## La Escocesa
