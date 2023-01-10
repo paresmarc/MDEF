@@ -26,173 +26,31 @@ Observation trough microscopy.
 
 <br>
 
-<div class="image12">
-    <div class="imgContainer">
-        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg"
-        height="100%" width="250"/>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg"
-        height="100%" width="250"/>
-    </div>
-</div>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="45%" height="45%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="45%" height="45%" class="center"/>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="45%" height="45%" class="center"/>
 
-<div class="image12">
-    <div class="imgContainer">
-        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg"
-        height="100%" width="250"/>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg"
-        height="100%" width="250"/>
-    </div>
-</div>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="45%" height="45%" class="center"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Practice - 25.10
 
 Creating Bioplastics
 
-<div class="image12">
-    <div class="imgContainer">
-        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg"
-        height="100%" width="250"/>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg"
-        height="100%" width="250"/>
-    </div>
-</div>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg" width="45%" height="45%" class="center"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg" width="45%" height="45%" class="center"/>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg" width="45%" height="45%" class="center"/>
 
-<div class="image12">
-    <div class="imgContainer">
-        <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg"
-        height="100%" width="250"/>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg"
-        height="100%" width="250"/>
-    </div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg" width="45%" height="45%" class="center"/>
 
 
 ## Article
