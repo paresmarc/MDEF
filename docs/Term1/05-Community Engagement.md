@@ -80,8 +80,8 @@ With this intervention, I have learned how to contact people and engage them, ho
 
 <img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="100%" height="100%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/potterylove2.png" width="50%" height="50%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/potterylove3.jpg" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove2.png" width="45%" height="45%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove_3.jpg" width="45%" height="45%" class="center"/>
 
 
 
