@@ -80,9 +80,11 @@ For the El Torn workshop, we prepared a workbook to have a guide, so participant
 
 With this intervention, I have learned how to contact people and engage them, how to prepare a workshop for a group, how to guide and create a safe environment, and how to participate and be one more member of the group to experience it from a first-person perspective.
 
-<img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="50%" height="50%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="100%" height="100%" class="center"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="30%" height="30%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove2.png" width="45%" height="45%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove3.png" width="45%" height="45%" class="center"/>
+
 
 
 ## La Escocesa
