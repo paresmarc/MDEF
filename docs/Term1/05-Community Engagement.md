@@ -58,7 +58,7 @@ Environment: Renovating the bikes prolongs the life cycle of the product.
 Economy: Users get their bikes repaired conveniently for a good price. The popularity of the service
 means the provider fulfills a clear need.
 
-Some limits could be placed on this service for people who need it regularly.
+Some limits could be placed on this service for people who need it regularly. Also, the possible large amount of work that only one van has to cover may be too much.
 
 **Theory of Change:**
 
@@ -68,7 +68,7 @@ Designing software and equipment to optimise the logistics of the service.
 
 **Design Challenges and Opportunities:**
 
-Make a similar system as car insurances, so clients pay per month and have a full service for every problematic situation. This would
+Create a system similar to car insurance in which clients pay monthly and receive full service for any problematic situation. This would help the service have a regular income and have faithful clients.
 
 ### Reflections
 
@@ -83,7 +83,7 @@ With this intervention, I have learned how to contact people and engage them, ho
 <img src="https://paresmarc.github.io/MDEF/images/potterylove.png" width="100%" height="100%" class="center"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/potterylove2.png" width="45%" height="45%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/potterylove3.png" width="45%" height="45%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/potterylove3.jpg" width="45%" height="45%" class="center"/>
 
 
 
