@@ -5,7 +5,7 @@ hide:
 
 # Community Engagement
 
-### Can Batlló
+## Can Batlló
 
 We started this seminar by visiting Coòpolis where we met Markel Cormenzana and Mercè Rua. They are part of a design cooperative called Holon, which works with communities to help with different kinds of human transitions.
 
@@ -15,15 +15,18 @@ During the week at Coòpolis we also learned about facilitation and explored a d
 
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards1.jpg" width="30%" height="30%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards2.jpg" width="30%" height="30%" class="center"/>
+
+<br>
+
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards3.jpg" width="30%" height="30%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/GroupCards4.jpg" width="30%" height="30%" class="center"/>
 
 Finally, we did an exercise on creative communities and were assigned an exercise that I have documented below.
 
 
-## Assignment
+### Assignment
 
-### Creatives Community
+#### Creatives Community
 
 **Creative Community:**
 
@@ -67,7 +70,7 @@ Designing software and equipment to optimise the logistics of the service.
 
 Make a similar system as car insurances.
 
-### La Escocesa
+## La Escocesa
 
 La Escocesa is an artist-led contemporary visual arts organisation and residency space managed collectively through the artists.
 
