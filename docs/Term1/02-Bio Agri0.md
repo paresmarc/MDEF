@@ -27,13 +27,11 @@ Observation trough microscopy.
 <br>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="45%" height="45%" class="center"/>
-
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="45%" height="45%" class="center"/>
 
 <br>
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="45%" height="45%" class="center"/>
-
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="45%" height="45%" class="center"/>
 
 
