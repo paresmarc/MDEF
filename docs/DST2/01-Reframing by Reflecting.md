@@ -4,7 +4,7 @@ hide:
 ---
 
 # Reframing by Reflecting
-on my project so far
+**Reframing by Reflecting on my project so far**
 
 ## Design Space II
 
