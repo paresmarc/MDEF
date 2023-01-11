@@ -31,7 +31,11 @@ This made me think about how 3D scanning can make everyone generate a 3D model w
 
 
 This activity was the first phase of a possible future intervention. This helped me see how a group of people reacts to an improvised activity and how self-improvisation can be a good option sometimes. Some ideas for possible future interventions could be:
+
 -	3D printer that improvises and has a mentality? That creates what they want, that changes their mind (undecided). Controlled by AI?
+
 -	3D printer with ceramic waste or clay powder from local extraction.
+
 -	Workshop or exhibition with kids to generate 3D digital and physical.
+
 -	Learning the boundaries of machine creations and art.
