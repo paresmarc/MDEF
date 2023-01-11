@@ -14,16 +14,12 @@ nav:
   - Master project:
       - Initial ideas: project/project.md
       - Design Space: project/design-space.md
-      - Interventions:
-        - Daily Clay Interaction: INT/01-Daily Clay Interaction.md
-        - To Pottery with Love: INT/02-Pottery with Love.md
-        - Where Clay comes From?: INT/03-Where does Clay come From.md
-
-        - Term 1:
-          - Daily Clay Interaction: INT/01-Daily Clay Interaction.md
-          - To Pottery with Love: INT/02-Pottery with Love.md
-          - Where does Clay come From?: INT/03-Where does Clay come From?.md
-        - Term 2:
+  - Interventions:
+    - Term 1:
+      - Daily Clay Interaction: INT/01-Daily Clay Interaction.md
+      - To Pottery with Love: INT/02-Pottery with Love.md
+      - Where Clay comes From?: INT/03-Where Clay comes From.md
+    - Term 2:
 
 #  - Design Studio:
 #      - Bootcamp: DS/01-Bootcamp.md
@@ -44,8 +40,8 @@ nav:
       - Community Engagement: Term1/05-Community Engagement.md
       - Extended Intelligences: Term1/06-Extended Intelligences.md
     - Term 2:
-      - Reframing by reflecting: DS_T2/01-Reframing by reflecting.md
-      - Designing Next Billion Sec: DS_T2/02-Designing for the Next Billion Seconds.md
+      - Reframing by reflecting: DS_T2/01-Reframing by Reflecting.md
+      - Designing Next Billion Sec: Term2/02-Designing Next Billion Seconds.md
 
 
 # - Reflections Term 2:
