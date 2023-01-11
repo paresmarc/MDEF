@@ -7,7 +7,6 @@ repo_name: 'Marc Parés'
 site_url: 'https://paresmarc.github.io/MDEF/'
 repo_url: 'https://paresmarc.github.io/MDEF/'
 
-
 nav:
   - Home: index.md
   - About: about/me.md
@@ -35,7 +34,7 @@ nav:
       - Bio & Agri 0: Term1/02-Bio Agri0.md
       - Roles of Prototyping: DS/03-Roles of Prototyping.md
       - Living with your own Ideas: Term1/03-Living with your own Ideas.md
-      - Documentation: DS/04-Documentation.md
+      - Documentation Communication: DS/04-Documentation.md
       - Tech beyond the Myth: Term1/04-Tech beyond the Myth.md
       - Community Engagement: Term1/05-Community Engagement.md
       - Extended Intelligences: Term1/06-Extended Intelligences.md

@@ -3,8 +3,7 @@ hide:
     - toc
 ---
 
-# Design Studio
-## Roles of Prototyping
+# Roles of Prototyping
 
 ### Role 1: The prototype as an experimental component
 The prototype as an experimental component. Prototyping tests an abstract hypothesis. This type searches for body interaction between the user and the product tested. It also looks for an experience, how the user learns how to interact with it, for what is meant and creates a positive experience. Finally aims to show and experiment with some details of the shape such as textures, colours, shadows, physical conditions, etc.

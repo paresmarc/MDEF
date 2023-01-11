@@ -3,8 +3,7 @@ hide:
     - toc
 ---
 
-# Design Studio
-## Documentation and Communication
+# Documentation and Communication
 
 Open Design Process
 
