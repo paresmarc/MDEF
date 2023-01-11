@@ -89,17 +89,17 @@ It tries to be funny
 
 Door Knocker
 
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_map.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_draw.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_components.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_photo.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_story.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knock_detail.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/tech/knockknock.gif" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_map.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_draw.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_components.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_photo.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_story.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knock_detail.jpeg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/tech/knockknock.gif" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/UslessMachine2.png" width="100%" height="100%"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1F_JKIxENr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1F_JKIxENr4" title="KnockKnock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Reflections**
 

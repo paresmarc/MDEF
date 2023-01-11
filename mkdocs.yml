@@ -13,12 +13,12 @@ nav:
   - Master project:
       - Initial ideas: project/project.md
       - Design Space: project/design-space.md
-#  - Interventions:
-#    - Term 1:
-#      - Daily Clay Interaction: INT/01-Daily Clay Interaction.md
-#      -# To Pottery with Love: INT/02-Pottery with Love.md
-#      - W#here Clay comes From?: INT/03-Where Clay comes From.md
-#    - Term #2:
+  - Interventions:
+    - Term 1:
+      - Daily Clay Interaction: INT/01-Daily Clay Interaction.md
+#      - To Pottery with Love: INT/02-Pottery with Love.md
+#      - Where Clay comes From?: INT/03-Where Clay comes From.md
+#    - Term 2:
 
 #  - Design Studio:
 #      - Bootcamp: DS/01-Bootcamp.md
