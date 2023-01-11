@@ -29,8 +29,6 @@ Observation trough microscopy.
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes0.jpg" width="45%" height="45%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes3.jpg" width="45%" height="45%" class="center"/>
 
-<br>
-
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes2.jpg" width="45%" height="45%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/petridishes1.jpg" width="45%" height="45%" class="center"/>
 
@@ -42,7 +40,6 @@ Creating Bioplastics
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop1.jpg" width="45%" height="45%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop2.jpg" width="45%" height="45%" class="center"/>
-
 
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop4.jpg" width="45%" height="45%" class="center"/>
 <img src="https://paresmarc.github.io/MDEF/images/agri_bio/biop3.jpg" width="45%" height="45%" class="center"/>
