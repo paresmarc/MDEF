@@ -16,8 +16,8 @@ I gave a bunch of clay and plasticine to a group of friends while we were taking
 
 After the bar experience, I recollected the final pieces of clay and 3D scanned them. Following the preservation concept, I wanted to digitalize them to be able to have a copy forever. It is also a means of sharing and replicating something.
 
-<img src="https://paresmarc.github.io/MDEF/int1/images/claybeer.png" width="45%" height="45%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/int1/images/desdial.jpg" width="45%" height="45%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/int1/claybeer.png" width="45%" height="45%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/int1/desdial.jpg" width="45%" height="45%" class="center"/>
 
 Once I had the 3D models, I printed some of them with a FDM printer. I wanted to compare the objects to see what differences they had. The 3D-printed shapes had less detail because of the low resolution of 3D scanning, but you can still relate them perfectly to the original shape. Because with slicing, you can generate an infill pattern and change density, the 3D-printed shapes were lighter than the clay ones. Also, the layers of the 3D printer have a different texture, and the colour is similar but brighter.
 
