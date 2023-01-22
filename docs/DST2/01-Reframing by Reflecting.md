@@ -8,17 +8,15 @@ hide:
 
 ## My journey
 
-The first term has been a beautiful but hard process where I had to reflect on who I am and who I want to be, professionally but also personally. I positioned fast in the duality of crafts and technology because is a field that I was interested before starting the master and also I already had done some projects.
+The first term has been a beautiful but hard process where I have had to reflect on who I am and who I want to be, professionally but also personally. I quickly established myself in the duality of crafts and technology because it was a field in which I was interested prior to beginning the master's and in which I had already completed some projects. 
 
-From this idea I started thinking on ceramics and the local traditions around. Catalonia had an extended culture around pottery and my mother’s family is from La Bisbal, where ceramics has been for a long time the principal motors of economy.
+From this idea, I started thinking about ceramics and the local traditions around them. Catalonia has a long history of pottery, and my mother's family is from La Bisbal, where ceramics have long been the main economic driver. I started researching the traditions and the current situation, where nowadays craftsmen don’t have a heritage to share their knowledge because new generations are more interested in moving to big cities and studying in innovative fields. However, in Barcelona, there is a boom in doing ceramics, people are interested in doing pottery in their free time, as an activity of introspection and to take a break from their busy lives. So, I find interesting this contradiction where in cities, there is an extended interest in pottery, but in rural areas, we are losing the professionalisation of ceramics.
 
-During this term I researched around how
+I struggled with the uncertainty of the design process. Sometimes for me, it is difficult to be confident in myself and believe I am doing things right, so with this term that was about exploring without having an objective, I had a lot of ups and downs.
 
-I also found new interests around
--	Ai
--	Technology, Arduino
+I have done some interventions (Pottery with Love and Where Clay Comes From).
 
-I struggled with the uncertainty of the design process. Sometimes for me its difficult to be confident in me and believe I am doing things right, so with this term that was about exploring without having an objective I had a lot of ups and downs.
+With these interventions, I have made contact with some interesting people related to pottery. I have met the director of the ceramic school in La Bisbal. With this, I look forward to collaborating with some of them in the second term to learn from them, to do interventions, and to become collaborators.
 
 ### Learnings
 - knowledge about a lot of different fields, opening my mind and my future expectations
