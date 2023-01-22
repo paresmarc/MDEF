@@ -27,7 +27,7 @@ I struggled with the uncertainty of the design process. Sometimes for me its dif
 - working and learning together (open design process)
 - first person perspective design process, becoming one more of the collective
 
-### Design Dialogues 
+### Design Dialogues
 - possible future interventions
 - specific ideas for my project, new combinations
 - the need to talk to people and make contacts, explaining and communicating my project and ideas without a defined design only with a intention
@@ -35,3 +35,6 @@ I struggled with the uncertainty of the design process. Sometimes for me its dif
 
 
 ## Design Space II
+![Design Space 2](../images/desSpace2.jpg)
+
+<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=22843,-234,16829,10619&embedId=994993059601" frameborder="0" scrolling="no" allowfullscreen></iframe>

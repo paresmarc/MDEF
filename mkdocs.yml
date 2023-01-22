@@ -73,8 +73,8 @@ theme:
 #  logo: images/tetra_logo.png
 #  favicon: images/mrcprs.jpg
 
-  logo: images/potX.png
-  favicon: images/potX.png
+  logo: images/potlogo.png
+  favicon: images/potlogo.png
   features:
     - instant
     - navigation.expand
