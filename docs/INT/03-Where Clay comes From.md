@@ -10,7 +10,7 @@ Instagram account created to document and share the results of asking Barcelona 
 With this intervention, I wanted to know what type of clay the ceramists in Barcelona use. By emailing, visiting their workshops, and going to design markets, I asked them which type of clay they use, where they get it, and if they knew the origin of the components or where it is produced.
 
 <img src="https://paresmarc.github.io/MDEF/images/int1/desmarket.png" width="45%" height="45%" class="center"/>
-<img src="https://paresmarc.github.io/MDEF/images/int1/marketdelia.jpg" width="40%" height="40%" class="center"/>
+<img src="https://paresmarc.github.io/MDEF/images/int1/marketdelia.jpg" width="42.5%" height="42.5%" class="center"/>
 
 I am interested in local materials recirculation, and because Catalonia was a major clay extractor years ago, I wanted to verify if it still is. Around La Bisbal there were a lot of "Terreres", the places where there is abundant clay and from, they extract it to send it to the factories, such as in Cruïlles, Corçà, and Sant Sadurní de l'Heura, as well as in other regions, to give some examples, Breda and Quart. Each of these areas had clay with different qualities, and because of that, they produced different types of products. In La Bisbal, the main one was plates, in Breda, objects to cook with fire, and in Quart, their black pieces.
 

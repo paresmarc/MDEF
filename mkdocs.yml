@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Marc Parés — Iaac
+site_name: Marc Parés — Iaac & FabLab
 site_description: Master in Design for Emergent Futures
 site_author: Marc Parés
 copyright: Marc Parés  ©  2022
@@ -70,8 +70,11 @@ theme:
     text: Montserrat
     code: Cutive Mono
 
-  logo: images/tetra_logo.png
-  favicon: images/mrcprs.jpg
+#  logo: images/tetra_logo.png
+#  favicon: images/mrcprs.jpg
+
+  logo: images/potX.png
+  favicon: images/potX.png
   features:
     - instant
     - navigation.expand
