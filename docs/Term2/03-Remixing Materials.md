@@ -27,6 +27,3 @@ Coffee
 
 
 ## Concluision
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
