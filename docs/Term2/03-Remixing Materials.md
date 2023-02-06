@@ -101,13 +101,13 @@ Gelatin Bioplastic
 & rectangular flat)
 
 
-<iframe src="https://drive.google.com/file/d/1sOCz_yC2kxVrpgviTDLR3LeNfJMmLABv/view?usp=share_link" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1sOCz_yC2kxVrpgviTDLR3LeNfJMmLABv/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa2.jpg" width="75%" height="75%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa3.jpg" width="75%" height="75%"/>
 
-<iframe src="https://drive.google.com/file/d/1XMf3SABLqR1oEMPNwOx7V30QgasbQiJ6/view?usp=share_link" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XMf3SABLqR1oEMPNwOx7V30QgasbQiJ6/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.jpg" width="75%" height="75%"/>
 
