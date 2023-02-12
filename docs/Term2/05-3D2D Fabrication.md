@@ -16,6 +16,14 @@ This week we started Digital Prototyping. I have a background in Product Design 
 ### First Assignment
 
 - Generative Design — Fusion 360
+Trying Fusion 360 and its Generative Design Tool
+
+3D model and atributing carachteristics. Preserve and Obstacle geometries, Manufacturing Technique, and Loads and Constraints.
+<img src="https://paresmarc.github.io/MDEF/images/term2/fusiong1.jpeg" width="100%" height="100%"/>
+
+Generative final model.
+<img src="https://paresmarc.github.io/MDEF/images/term2/fusiong2.jpeg" width="100%" height="100%"/>
+
 
 - Paramentric Design — Grasshopper
 
