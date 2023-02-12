@@ -56,3 +56,15 @@ Model sliced empty to reduce weight and reduce amount of material waste.
 
 
 - Design of a ceiling lamp to be produced with Laser Cut and assemble it without gluing.
+
+Design 3D model in Solidworks.
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+
+Generation of 2D Planes in Solidworks.
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+
+Duplication to have the necessary amount of each part type in Illustrator.
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+
+Deepnest to optimise the placing of the parts in the laser machine.
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
