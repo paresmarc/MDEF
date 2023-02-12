@@ -69,10 +69,10 @@ Design 3D model in Solidworks.
 <img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
 
 Generation of 2D Planes in Solidworks.
-<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp2.jpeg" width="100%" height="100%"/>
 
 Duplication to have the necessary amount of each part type in Illustrator.
-<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp3.jpeg" width="100%" height="100%"/>
 
 Deepnest to optimise the placing of the parts in the laser machine.
-<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp1.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp4.jpeg" width="100%" height="100%"/>
