@@ -18,7 +18,7 @@ This week we started Digital Prototyping. I have a background in Product Design 
 - Generative Design — Fusion 360
 Trying Fusion 360 and its Generative Design Tool
 
-3D model and atributing carachteristics. Preserve and Obstacle geometries, Manufacturing Technique, and Loads and Constraints.
+3D model and atributing carachteristics. Preserve and Obstacle geometries. Manufacturing Technique, and Loads and Constraints.
 <img src="https://paresmarc.github.io/MDEF/images/term2/fusiong1.jpeg" width="100%" height="100%"/>
 
 Generative final model.
@@ -43,8 +43,8 @@ Laser Cut and how to assembly parts (tolerances).
 
 Stacked Slices:
 Slicing the model into planes. 2 different directions
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust2.jpeg" width="50%" height="50%"/>
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust7.jpeg" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust2.jpeg" width="50%" height="49%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust7.jpeg" width="50%" height="49%"/>
 
 Interlocked Slices:
 Slicing the model into inserted planes.
