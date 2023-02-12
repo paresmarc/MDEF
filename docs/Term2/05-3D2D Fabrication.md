@@ -56,11 +56,11 @@ Made with a flexible plane, Origami-type. Paper folding.
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust6.jpeg" width="100%" height="100%"/>
 
 Sliced view of the model. With all the parts to be cutted in 2D.
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust9.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust12.jpeg" width="100%" height="100%"/>
 
 Using Deepnest software to place the parts to be cut with the least amount of material possible.
 Model sliced empty to reduce weight and reduce amount of material waste.
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust12.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust11.jpeg" width="100%" height="100%"/>
 
 
 - Design of a ceiling lamp to be produced with Laser Cut and assemble it without gluing.
