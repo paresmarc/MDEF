@@ -13,7 +13,7 @@ This week we started Digital Prototyping. I have a background in Product Design 
 
 **3D modeling**
 
-Graphic about Softwares Categories
+Graphic about Softwares for Design and Manufacturing
 <img src="https://paresmarc.github.io/MDEF/images/term2/cadcam.png" width="100%" height="100%"/>
 
 Mapping our familiar Softwares
@@ -42,7 +42,7 @@ Generative final model.
 CNC — Computer Numeric Component
 Laser — Light Amplification by Stimulated Emission of Radiation
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/laser.png" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laser.png" width="75%" height="75%"/>
 
 ### Second Assignment
 
@@ -51,31 +51,26 @@ Laser Cut and how to assembly parts (tolerances).
 #### Slicing a 3D model to fabricate it with a Laser cut machine.
 
 **3D model**
-
 Generated with 3D Scanning — EM3D mobile app
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust0.jpeg" width="100%" height="100%"/>
 
 **Stacked Slices:**
-
 Slicing the model into planes. 2 different directions
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust2.jpeg" width="49%" height="49%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust7.jpeg" width="49%" height="49%"/>
 
 **Interlocked Slices:**
-
 Slicing the model into inserted planes.
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust3.jpeg" width="50%" height="50%"/> <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust4.jpeg" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust3.jpeg" width="49%" height="49%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust4.jpeg" width="49%" height="49%"/>
 
 **Folded Panels:**
-
 Made with a flexible plane, Origami-type. Paper folding
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust6.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust6.jpeg" width="75%" height="75%"/>
 
-Sliced view of the model.
-
+**Sliced view of the model**
 With all the parts to be cutted in 2D
-<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust12.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust12.jpeg" width="75%" height="75%"/>
 
 **Deepnest:**
 
@@ -94,7 +89,23 @@ Generation of 2D Planes in Solidworks
 <img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp2.jpeg" width="100%" height="100%"/>
 
 Duplication to have the necessary amount of each part type in Illustrator
-<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp3.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp3.png" width="100%" height="100%"/>
 
 Deepnest to optimise the placing of the parts in the laser machine
-<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp4.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp4.png" width="100%" height="100%"/>
+
+
+Laser Cutter Machine cutting the pieces
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp5.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp0.gif" width="100%" height="100%"/>
+
+Pieces cutted, sanded and oiled.
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp6.jpg" width="100%" height="100%"/>
+
+Final Lamp in place
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp7.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp8.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp9.jpg" width="100%" height="100%"/>
