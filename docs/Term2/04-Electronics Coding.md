@@ -130,6 +130,7 @@ Light Sensor and LED
 <td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightsens.jpeg" width="75%" height="75%"/></td>
 
 ```
+
 // constants won't change
 #define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor
 #define LED_PIN           22  // ESP32 pin GIOP22 connected to LED
@@ -147,3 +148,4 @@ void loop() {
   else
     digitalWrite(LED_PIN, LOW);  // turn off LED
 }
+```

@@ -2,48 +2,44 @@
 hide:
     - toc
 ---
-# tiledeco
+# Challenge I: Tile Deco
+Caglar / Ahmed / Marc
 A DIY ToolKit to design and decorate tiles and build unique pattern combinations
 
----
-title: MDEF 22/23 - Tile Deco
----
-
-###### tags: `MDEF` `Fab Lab Barcelona`
-
-
-Challenge I: Tile Deco
-==========================================
-Caglar / Ahmed / Marc
-
-**A DIY ToolKit to design and decorate tiles and build unique pattern combinations**
 **"Playing in the physical and converting it to the digital"**
 
-1. [**Project Alignment**](#1-Project-alignment)
-2. [**Project Development**](#2-Project-development)
-3. [**Final Product**](#3-Rethink-and-reconnect)
-
-## #1 Project Alignment
+## Project Alignment
 
 We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three circles show the intersection between our main interests.
 
 ![](images/interests.jpg)
 
 We defined the following concepts to start working:
+
 1. DIY Projects
+
 2. Fabrication
+
 3. Modular
+
 4. Digital Crafts
+
 5. Making/Production
+
 6. Gamification
 
+
 From this concepts we defined that we wanted to explore the modularity of DIY design. How we can simplify a design process through a clear methodology combining physical and digital tools? We decided to do it through three stages:
+
 Stage 1 - A 2D tile scale design pattern
+
 Stage 2 - 3D facade iteration
+
 Stage 3 - Public installation
 
 
 **References**
+
 We investigated some projects to take a look of what is already done and what we can contribute on. Also looking in different fields made us get inspired and develop our idea. Here we link some interesting projects:
 
 <table>
@@ -107,10 +103,20 @@ Tile-Deco is a concept of grid that made of acrylic and magnets and has geometri
 7. Tile production
 8. Building pattern
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFavYB6CeY&#x2F;view?utm_content=DAFavYB6CeY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tile Deco</a>
+
 
 [Design Process Presentation](https://www.canva.com/design/DAFavYB6CeY/SDjOxHvMFFO4icoWGjks5A/view)
 
-![](images/presentation.png)
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/presentation.png" width="50%" height="50%"/>
+
 
 1. **Grid Board**
 
@@ -118,16 +124,20 @@ A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.
 
 Through the design process of the grid board we tried to prevent from shades and reflections which ruins the quality of the photo-digitalisation process of the vinyl. But, as the acrylic thickness and magnet sizes are defined, we couldn’t avoid from that. On the other hand, we covered the acrylic surfaces with a mat vinyl to prevent the reflections. At least we succeeded to get rid of the reflections to enhance the quality of the photo-digitalisation process. But, of course the transfer of the vinyl on the grid board was not easy, we were not satisfied with the first attempt and for the second one magnets destroyed the grid engraved vinyl and fortunately we satisfied with the third vinyl design.
 
-![](images/design/griddesign.jpg)
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/griddesign.jpg" width="75%" height="75%"/>
 
 Tolerance magnet test — laser cut machine
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/magnettest.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/gridmagnets.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/vinylgrid2.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/vinylgrid.jpg)
 
 2. **Geometric pieces**
@@ -136,16 +146,20 @@ Another problem that we faced with was the unsuitability of some geometric piece
 
 One of the discoveries was how to fix the magnets in an efficient way without wasting them. We made different holes in the acrylic board searching for the fittest size. Then we used vinyl to cover each side of the acrylic, so the magnets stay in place, but if you want to disassemble the pieces, you can take it off easily.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/design1.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/design2.jpg)
 
 3. **Tile design**
 
 The next step was making the patterns aligned with the photo-digitalisation process. As we took some tile decoration samples photos and we also worked on the various patterns options on 2D softwares. We used Illustrator and Inkscape to generate some patterns.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/tiledesign.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/bigpattern.png)
 
 4. **Photo digitalisation (vector)**
@@ -158,10 +172,13 @@ Once we obtained the outlines, it was a breeze to scale them accordingly (in our
 
 Even though the process took us about an hour to complete, we are continually looking for ways to simplify the physical-to-digital step process so that anyone can do it from the comfort of their home. Furthermore, we aim to develop something that will enable users to visualize their patterns more quickly after getting aggregated.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/tilephoto.PNG)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/contrast.PNG)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/vectorizer.PNG)
 
 5. **Vinyl cutting**
@@ -170,8 +187,10 @@ To make the stencil, we used a vinyl cutter. Through the Rhino file, we were abl
 
 With the vinyl cutter, you have to be sure to set the precise distance of the cutter to be able to cut the vinyl but not the plastic layer, so the shape is kept in place. Once we had the vinyl cut, we peeled with tweezers the shapes that would have to be covered with ink.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/vinylcutter.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/stencil.jpg)
 
 6. **Stencil**
@@ -180,14 +199,19 @@ To transfer the shape to the tiles, first we placed the stencil on the screen pr
 
 Then we placed the tiles, matching the vinyl. Once it is in place, we mix the ink with a bit of water to make it more liquid and place it in the frame. After the squeeze, we pressed the ink through the frame, covering the entire tile.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/stencil.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/stencilsq.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/stencil2.jpg)
 
 
 7. **Tile Production**
+
+<iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view" width="640" height="480" allow="autoplay"></iframe>
 
   [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
 
@@ -195,19 +219,25 @@ Then we placed the tiles, matching the vinyl. Once it is in place, we mix the in
 
 With a single tile design you can create myriad pattern designs.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/patt1.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/patt2.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/patt3.jpg)
 
 
 ## #3 Final Product
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/kit2.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/stencilsq.jpg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/magnettest.jpg" width="75%" height="75%"/>
 ![](images/design/patt3.jpg)
 **Conclusion**
 
