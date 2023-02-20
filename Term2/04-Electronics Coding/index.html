@@ -894,21 +894,24 @@ void loop() {
 <p>Light Sensor and LED</p>
 <td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightsens.jpeg" width="75%" height="75%"/></td>
 
-<p>```
-// constants won&rsquo;t change</p>
-<h1 id="define-light_sensor_pin-36-esp32-pin-giop36-adc0-connected-to-light-sensor">define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor<a class="headerlink" href="#define-light_sensor_pin-36-esp32-pin-giop36-adc0-connected-to-light-sensor" title="Permanent link">&para;</a></h1>
-<h1 id="define-led_pin-22-esp32-pin-giop22-connected-to-led">define LED_PIN           22  // ESP32 pin GIOP22 connected to LED<a class="headerlink" href="#define-led_pin-22-esp32-pin-giop22-connected-to-led" title="Permanent link">&para;</a></h1>
-<h1 id="define-analog_threshold-500">define ANALOG_THRESHOLD  500<a class="headerlink" href="#define-analog_threshold-500" title="Permanent link">&para;</a></h1>
-<p>void setup() {
+<div class="highlight"><pre><span></span><code>// constants won&#39;t change
+#define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor
+#define LED_PIN           22  // ESP32 pin GIOP22 connected to LED
+#define ANALOG_THRESHOLD  500
+
+void setup() {
   pinMode(LED_PIN, OUTPUT); // set ESP32 pin to output mode
-}</p>
-<p>void loop() {
-  int analogValue = analogRead(LIGHT_SENSOR_PIN); // read the value on analog pin</p>
-<p>if (analogValue &lt; ANALOG_THRESHOLD)
+}
+
+void loop() {
+  int analogValue = analogRead(LIGHT_SENSOR_PIN); // read the value on analog pin
+
+  if (analogValue &lt; ANALOG_THRESHOLD)
     digitalWrite(LED_PIN, HIGH); // turn on LED
   else
     digitalWrite(LED_PIN, LOW);  // turn off LED
-}</p>
+}
+</code></pre></div>
                 
                   
                     
