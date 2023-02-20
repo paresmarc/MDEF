@@ -131,7 +131,6 @@ Light Sensor and LED
 
 ```
 
-// constants won't change
 #define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor
 #define LED_PIN           22  // ESP32 pin GIOP22 connected to LED
 #define ANALOG_THRESHOLD  500
