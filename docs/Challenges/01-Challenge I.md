@@ -76,20 +76,20 @@ We investigated some projects to take a look of what is already done and what we
 
 [The key is to tell the tile setter not to worry about it - Jeff Shelton](https://www.instagram.com/p/CkeAuX7jl4E/)
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/setter.png" width="49%" height="49%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/setter.png" width="49%" height="49%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/Ltile.png" width="49%" height="49%"/>
-<img src="https://paresmarc.github.io/MDEF/images/term2/tilestrans.png" width="49%" height="49%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/Ltile.png" width="49%" height="49%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tilestrans.png" width="49%" height="49%"/>
 
 
 First Iteration
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/firstpattern.png" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/firstpattern.png" width="50%" height="50%"/>
 
 As a group, after discussing about our common interest and as we want to work on water bricks to store domestic grey water, we decided to work on something related to modularity, interchangeability, personalisation of a product… We ended up with the idea of building a DIY toolkit which provides designing unique tile decorations and patterns made of those.
 
 
-## #2 Project Development
+## Project Development
 
 Firstly, we talked on 3D and 2D options and then we decided to focus on 2D option. For a simple tile decoration we need vinyl designs which needs to be sticked on stencil to transfer the ceramic ink. Instead of providing ready to use patterns, stickers, vinyls we preferred to work on a grid board which provides the user to make their own unique design.
 
@@ -138,7 +138,7 @@ Tolerance magnet test — laser cut machine
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/gridmagnets.jpg" width="75%" height="75%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/vinylgrid.jp" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/vinylgrid.jpg" width="75%" height="75%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/vinylgrid2.jpg" width="75%" height="75%"/>
 
@@ -171,11 +171,9 @@ Once we obtained the outlines, it was a breeze to scale them accordingly (in our
 
 Even though the process took us about an hour to complete, we are continually looking for ways to simplify the physical-to-digital step process so that anyone can do it from the comfort of their home. Furthermore, we aim to develop something that will enable users to visualize their patterns more quickly after getting aggregated.
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/tilephoto.PNG" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/contrast.PNG" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/vectorizer.PNG" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/tilephoto.PNG" width="30%" height="30%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/contrast.PNG" width="30%" height="30%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/vectorizer.PNG" width="30%" height="30%"/>
 
 5. **Vinyl cutting**
 
@@ -209,15 +207,12 @@ Then we placed the tiles, matching the vinyl. Once it is in place, we mix the in
 
 With a single tile design you can create myriad pattern designs.
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt1.jpg" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt2.jpg" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt3.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt1.jpg" width="30%" height="30%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt2.jpg" width="30%" height="30%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/patt3.jpg" width="30%" height="30%"/>
 
 
-
-## #3 Final Product
+## Final Product
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/cha1/design/kit2.jpg" width="75%" height="75%"/>
 
