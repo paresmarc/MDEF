@@ -661,6 +661,44 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2-5" type="checkbox" id="nav-4-2-5">
+    
+    <label class="md-nav__link" for="nav-4-2-5">
+      Challenges
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Challenges" data-md-level="3">
+      <label class="md-nav__title" for="nav-4-2-5">
+        <span class="md-nav__icon md-icon"></span>
+        Challenges
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Challenges/01-Challenge%20I/" title="Challenge I" class="md-nav__link">
+      Challenge I
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -771,14 +809,106 @@
         Milis — time</p>
 <p>SBCs — single board computer
     Raspberry Pi</p>
-<p>Adafruit —</p>
+<p>Adafruit</p>
 <p>Opensource — share a like, if you do a modification you are forced to share it
 IP — Intelectual Property
 Permissives IP licenses</p>
 <h3 id="first-assignment">First Assignment<a class="headerlink" href="#first-assignment" title="Permanent link">&para;</a></h3>
 <p>Make some music with the board and a simple buzzer</p>
+<p>Tones Code</p>
+<div class="highlight"><pre><span></span><code>const int buzzer = 23; //buzzer to arduino pin 23
+
+void setup(){
+  pinMode(buzzer, OUTPUT); // Set buzzer - pin 23 as an output
+}
+
+void loop(){
+  tone(buzzer, 1000); // Send 1KHz sound signal...
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(750);        // ...for 1sec
+  tone(buzzer, 500); // Send 1KHz sound signal...
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(500);        // ...for 1sec
+  tone(buzzer, 200); // Send 1KHz sound signal...
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(100);        // ...for 1sec
+  tone(buzzer, 500); // Send 1KHz sound signal...
+  delay(600);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(1000);        // ...for 1sec
+}
+</code></pre></div>
+<p>Video of the Buzzer playing different Tones</p>
+<iframe src="https://drive.google.com/file/d/128rrN6yW1RR2MVPemLIZqrkibbpQ8Y5l/view" width="640" height="480" allow="autoplay"></iframe>
+
 <h2 id="inputs-outputs">Inputs &amp; Outputs<a class="headerlink" href="#inputs-outputs" title="Permanent link">&para;</a></h2>
+<p>This topic, as well as the introduction of electronics, proved challenging for me to work with and learn the concepts. During the first part of the class, we had an introduction to a lot of different types of sensors. I discovered the large range of possibilities, and I didn&rsquo;t believe that you could gain information with that many different techniques. One of the things that I found most interesting has been the simplicity of the mechanisms that use the sensors. One example is the tilt sensor that detects the rotation degrees of an object only through a small sphere inside a tube that activates a switch or not depending on the inclination.</p>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/tilt.jpeg" width="75%" height="75%"/></td>
+
 <h3 id="second-assignment">Second Assignment<a class="headerlink" href="#second-assignment" title="Permanent link">&para;</a></h3>
+<p>Building an Optical Telegraph</p>
+<p>Use a sensor and and actuator to comunicate.</p>
+<p>Use a simple Light Dependant Resistor (LDR) to know the light level of the enviroment, or the area we point our LDR. If we pair our LDR with a LED it’s easy to know if the led is ON or OFF, that’s an optical Telegraph.
+- First test, use morse code to transmith data from the LED side to the LDR side.</p>
+<p>First of all i investigated how to turn on a LED through a switch.</p>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/esp32.jpeg" width="75%" height="75%"/></td>
+
+<p>Code to control a LED</p>
+<div class="highlight"><pre><span></span><code>#define BUTTON_PIN 16  // ESP32 pin GIOP16, which connected to button
+#define LED_PIN    18  // ESP32 pin GIOP18, which connected to led
+
+// variables will change:
+int led_state = LOW;    // the current state of LED
+int button_state;       // the current state of button
+int last_button_state;  // the previous state of button
+
+void setup() {
+  Serial.begin(9600);                // initialize serial
+  pinMode(BUTTON_PIN, INPUT_PULLUP); // set ESP32 pin to input pull-up mode
+  pinMode(LED_PIN, OUTPUT);          // set ESP32 pin to output mode
+
+  button_state = digitalRead(BUTTON_PIN);
+}
+
+void loop() {
+  last_button_state = button_state;      // save the last state
+  button_state = digitalRead(BUTTON_PIN); // read new state
+
+  if (last_button_state == HIGH &amp;&amp; button_state == LOW) {
+    Serial.println(&quot;The button is pressed&quot;);
+
+    // toggle state of LED
+    led_state = !led_state;
+
+    // control LED arccoding to the toggled state
+    digitalWrite(LED_PIN, led_state);
+  }
+}
+</code></pre></div>
+<p>Light Sensor</p>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightled.jpeg" width="75%" height="75%"/></td>
+
+<p>Light Sensor and LED</p>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightsens.jpeg" width="75%" height="75%"/></td>
+
+<p>```
+// constants won&rsquo;t change</p>
+<h1 id="define-light_sensor_pin-36-esp32-pin-giop36-adc0-connected-to-light-sensor">define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor<a class="headerlink" href="#define-light_sensor_pin-36-esp32-pin-giop36-adc0-connected-to-light-sensor" title="Permanent link">&para;</a></h1>
+<h1 id="define-led_pin-22-esp32-pin-giop22-connected-to-led">define LED_PIN           22  // ESP32 pin GIOP22 connected to LED<a class="headerlink" href="#define-led_pin-22-esp32-pin-giop22-connected-to-led" title="Permanent link">&para;</a></h1>
+<h1 id="define-analog_threshold-500">define ANALOG_THRESHOLD  500<a class="headerlink" href="#define-analog_threshold-500" title="Permanent link">&para;</a></h1>
+<p>void setup() {
+  pinMode(LED_PIN, OUTPUT); // set ESP32 pin to output mode
+}</p>
+<p>void loop() {
+  int analogValue = analogRead(LIGHT_SENSOR_PIN); // read the value on analog pin</p>
+<p>if (analogValue &lt; ANALOG_THRESHOLD)
+    digitalWrite(LED_PIN, HIGH); // turn on LED
+  else
+    digitalWrite(LED_PIN, LOW);  // turn off LED
+}</p>
                 
                   
                     
@@ -787,7 +917,7 @@ Permissives IP licenses</p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 19, 2023</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 20, 2023</span>
     
   </small>
 </div>
