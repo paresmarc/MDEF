@@ -70,7 +70,7 @@ Video of the Buzzer playing different Tones
 
 ## Inputs & Outputs
 
-This topic, as well as the introduction of electronics, proved challenging for me to work with and learn the concepts. During the first part of the class, we had an introduction to a lot of different types of sensors. I discovered the large range of possibilities, and I didn't believe that you could gain information with that many different techniques. One of the things that I found most interesting has been the simplicity of the mechanisms that use the sensors. One example is the tilt sensor that detects the rotation degrees of an object only through a small sphere inside a tube that activates a switch or not depending on the inclination.
+This topic, as well as the introduction of electronics, proved challenging for me to work with and learn the concepts. During the first part of the class, we had an introduction to a lot of different types of sensors. I discovered the large range of possibilities, and I didn't believe that you could gain information with that many different techniques. One of the things that I found most interesting has been the simplicity of the mechanisms that use the sensors. The tilt sensor, for example, detects an object's rotation degrees only through a small sphere inside a tube that closes or not depending on the inclination. 
 
 <td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/tilt.jpeg" width="75%" height="75%"/></td>
 
@@ -123,14 +123,14 @@ void loop() {
 
 Light Sensor
 
-<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightled.jpeg" width="75%" height="75%"/></td>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightsens.jpeg" width="75%" height="75%"/></td>
 
 Light Sensor and LED
 
-<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightsens.jpeg" width="75%" height="75%"/></td>
+<td><img src="https://paresmarc.github.io/MDEF/images/term2/electronics/lightled.jpeg" width="75%" height="75%"/></td>
 
 ```
-
+// constants won't change
 #define LIGHT_SENSOR_PIN  36  // ESP32 pin GIOP36 (ADC0) connected to light sensor
 #define LED_PIN           22  // ESP32 pin GIOP22 connected to LED
 #define ANALOG_THRESHOLD  500
