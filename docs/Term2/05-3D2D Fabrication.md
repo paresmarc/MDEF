@@ -14,10 +14,16 @@ This week we started Digital Prototyping. I have a background in Product Design 
 **3D modeling**
 
 Graphic about Softwares for Design and Manufacturing
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/cadcam.png" width="100%" height="100%"/>
 
 Mapping our familiar Softwares
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/digproto.jpg" width="100%" height="100%"/>
+
+How to Parametrize a Croissant
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/croissant.jpg" width="100%" height="100%"/>
 
 
 ### First Assignment
@@ -34,6 +40,7 @@ Generative final model.
 
 #### Paramentric Design — Grasshopper
 
+Introducing to Rhino and Grasshopper to be able to 3D model parametric designs.
 
 ## 2D Design & Fabrication
 
@@ -94,6 +101,8 @@ Duplication to have the necessary amount of each part type in Illustrator
 Deepnest to optimise the placing of the parts in the laser machine
 <img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp4.png" width="100%" height="100%"/>
 
+Configuring the settings of the laser cutter and separating the sketch into layers to determine the order of steps
+<img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp10.jpg" width="100%" height="100%"/>
 
 Laser Cutter Machine cutting the pieces
 <img src="https://paresmarc.github.io/MDEF/images/term2/laserlamp/llamp5.jpg" width="100%" height="100%"/>
