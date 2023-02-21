@@ -43,40 +43,29 @@ Stage 3 - Public installation
 
 We investigated some projects to take a look of what is already done and what we can contribute on. Also looking in different fields made us get inspired and develop our idea. Here we link some interesting projects:
 
-<table>
-  <tr>
-    <td><img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tangram.jpeg" width="100%" height="100%"/></td>
-    <td width="50%"> [Tangram](https://en.wikipedia.org/wiki/Tangram)</td>
-  </tr>
-</table>
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
-</div>
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tangram.jpeg" width="50%" height="50%"/>
 [Tangram](https://en.wikipedia.org/wiki/Tangram)
 
-![](images/cha1/tangram.jpeg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/bussoga.jpeg" width="50%" height="50%"/>
 [Bussoga](https://www.bussoga.com/en/tiling/)
 
-![](images/cha1/bussoga.jpeg)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/facadetile.png" width="50%" height="50%"/>
 [Letters, Words, Numbers](https://www.instagram.com/p/CnM4iamOt5A/)
 
-![](images/facadetile.png)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/gertile.png" width="50%" height="50%"/>
 [Cèrcol](https://www.instagram.com/p/CEww6dRKY10/)
 
-![](images/gertile.png)
-
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/social.png" width="50%" height="50%"/>
 [Socialist Modernism in Germany](https://www.instagram.com/p/CgcPF26MuKQ/)
 
-![](images/social.png)
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/setter.png" width="50%" height="50%"/>
 [The key is to tell the tile setter not to worry about it - Jeff Shelton](https://www.instagram.com/p/CkeAuX7jl4E/)
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/setter.png" width="49%" height="49%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/cha1/Ltile.png" width="49%" height="49%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tilestrans.png" width="49%" height="49%"/>
