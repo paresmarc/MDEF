@@ -43,10 +43,16 @@ nav:
       - Digital Prototyping:
         - Electronics & Coding: Term2/04-Electronics Coding.md
         - 3D & 2D Fabrication: Term2/05-3D2D Fabrication.md
+        - Networking and Interfaces: Term2/09-Networking and Interfaces.md
+        - 3D Sacnning and Softwares: Term2/10-3D Sacnning and Softwares.md
+        - CNC: Term2/11-CNC.md
       - Challenges:
         - Challenge I: Challenges/01-Challenge I.md
+      - Design Intervention in Context: DST2/06-Design Intervention in Context.md
+      - Network of co-responsibility: DST2/07-Network of co-responsibility.md
+      - Radical Situatedness: DST2/08-Radical Situatedness.md
+      - Exploring alternative presents: DST2/12-Exploring alternative presents.md
 
-#    - Term 2:
 
 extra:
   social:

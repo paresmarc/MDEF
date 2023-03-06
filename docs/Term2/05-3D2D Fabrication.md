@@ -73,6 +73,7 @@ Slicing the model into planes. 2 different directions
 **Interlocked Slices:**
 
 Slicing the model into inserted planes.
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust3.jpeg" width="49%" height="49%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/bustsliced/bust4.jpeg" width="49%" height="49%"/>
 
