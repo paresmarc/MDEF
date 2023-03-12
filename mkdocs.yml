@@ -37,9 +37,16 @@ nav:
         - To Pottery with Love: INT/02-Pottery with Love.md
         - Where Clay comes From?: INT/03-Where Clay comes From.md
     - Term 2:
-      - Reframing by reflecting: DST2/01-Reframing by Reflecting.md
+      - Design Studio:
+        - Reframing by reflecting: DST2/01-Reframing by Reflecting.md
+        - Design Intervention in Context: DST2/06-Design Intervention in Context.md
+        - Network of co-responsibility: DST2/07-Network of co-responsibility.md
+        - Radical Situatedness: DST2/08-Radical Situatedness.md
+        - Exploring alternative presents: DST2/12-Exploring alternative presents.md
       - Designing Next Billion Sec: Term2/02-Designing Next Billion Seconds.md
+      - Future Talks:
       - Remixing Materials: Term2/03-Remixing Materials.md
+      - Communicating Ideas:
       - Digital Prototyping:
         - Electronics & Coding: Term2/04-Electronics Coding.md
         - 3D & 2D Fabrication: Term2/05-3D2D Fabrication.md
@@ -48,10 +55,9 @@ nav:
         - CNC: Term2/11-CNC.md
       - Challenges:
         - Challenge I: Challenges/01-Challenge I.md
-      - Design Intervention in Context: DST2/06-Design Intervention in Context.md
-      - Network of co-responsibility: DST2/07-Network of co-responsibility.md
-      - Radical Situatedness: DST2/08-Radical Situatedness.md
-      - Exploring alternative presents: DST2/12-Exploring alternative presents.md
+      - Making Sense and Meaning:
+      - Measuring the World:
+
 
 
 extra:
