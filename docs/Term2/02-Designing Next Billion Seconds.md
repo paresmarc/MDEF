@@ -22,4 +22,4 @@ This seminar made me reflect on how we perceive our world and look it wit a mode
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7tnJqhrtutE8Y1bICqQlaVaJ3NJwQvbyGnUVXdm9SDB-09C5220zG6j6sWi0tNA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Concluision
+## Conclusion
