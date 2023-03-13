@@ -19,6 +19,10 @@ What I am designing for society trying to change something
 
 - Designing a system to recover pieces of ceramics lost because civil war of Spain. Work with New Tech to reinterpret the pieces. AI to rethink
 
+Our goal is to revive old crafting techniques and items by blending them with modern technology, in order to appeal to younger generations. We aim to highlight the value of handcrafted products and promote transparency in the production process, with an open-source approach.
+
+We are currently developing a system that utilises AI to create contemporary interpretations of traditional local ceramic pieces, based on preserved sources.
+
 
 **Marian Burguès project**
 
