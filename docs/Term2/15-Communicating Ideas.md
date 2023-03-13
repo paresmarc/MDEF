@@ -7,37 +7,15 @@ hide:
 
 ## Reflections
 
-**Why** putting your idea into the world
+This seminar on communicating ideas and branding has been very informative and enlightening experience. The lecture focused on the importance of putting your ideas out into the world and the various reasons why you should do so. One key concept that stood out to me was the idea that putting your idea out there helps you engage the right stakeholders, test your idea or project, market your project, sell your idea or attract funding, gain visibility, share your intervention, and find collaborators. This highlights the fact that communicating your ideas is not just about getting your message out there but also about creating a network of support and interest around your idea.
 
-- Engage the right stakeholders
-- Test your idea or project
-- Market your project
-- Sell your idea or attract funding
-- Gain visibility
-- Share your intervention
-- Find collaborators
+Another important concept was the idea that when you communicate your idea, you are not just communicating the idea itself, but also yourself, your beliefs and values, and a call to action or a specific response that you want to elicit. It's important to have a clear point of view and to have one voice that is synthesized and understandable. This will help to create a consistent message that resonates with your intended audience.
 
-**What** are you communicating?
+<img src="https://paresmarc.github.io/MDEF/images/term2/communication/mission.png" width="75%" height="75%"/>
 
-- Yourself!
-- Your intervention!
-- …your beliefs and values!
-- A call to action or you want to elicit a specific response
-- Often different messages at different times
-- Always a clear point of view
-- One voice that is synthesized and understandable
+The lecture also emphasized the importance of branding, which is the image or perception that people have of your idea or project. A strong brand can help you stand out in a crowded marketplace and attract supporters, collaborators, and funding. The key attributes of a successful brand include being genuine, focused, mindful, open, positive, and willing to fail. It's important to be authentic and true to yourself and your values, while also being open to feedback and willing to adapt and evolve as needed.
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/communication/mission.png" width="50%" height="50%"/>
-
-
-**Brand**
-
-- Be genuine
-- Be focused
-- Be mindful
-- Be open
-- Be positive
-- Be willing to fail
+Overall, the lecture was a great reminder of the importance of communicating your ideas effectively and creating a strong brand that resonates with your target audience. It highlighted the many benefits of putting your ideas out into the world, and provided some valuable tips and strategies for doing so in a way that is authentic, effective, and engaging.
 
 
 ## Assignment
