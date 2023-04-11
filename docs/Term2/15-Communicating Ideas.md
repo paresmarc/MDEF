@@ -37,14 +37,8 @@ Using new technologies to bridge younger generations with local ceramic traditio
 Create a center of creation around ceramics and new technologies, located in a rural area.
 Design studio that combines new technologies to update the ceramic process and create pieces between craft and innovation.
 
-### Initial draft of brand kit
+### Brand Kit
 
-
-1. Color Palette
-2. Supporting Images
-3. Fonts
-5. Icon
-4. Values
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/communication/branding.png" width="100%" height="100%"/>
 
