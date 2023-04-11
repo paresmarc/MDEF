@@ -9,6 +9,18 @@ A DIY ToolKit to design and decorate tiles and build unique pattern combinations
 
 **"Playing in the physical and converting it to the digital"**
 
+## Reflection
+
+This challenge made us work hard on something that we were not sure and confident in the begining. That helped us develop the project without having a final objective so we changed the design depending on the process problems and opportunities.
+
+The project is a DIY toolkit for designing and creating unique tile decorations using a grid board made of acrylic and magnets. The group chose to focus on modularity, interchangeability, and personalization of the product.
+
+During the design process, we faced several challenges, such as preventing shades and reflections on the vinyl designs, making sure the geometric pieces were stable on the grid, and aligning the patterns with the photo-digitalisation process. We used Illustrator and Inkscape to generate patterns and a laser cutter to build the grid board.
+
+The final result was a good experience, but improvements could be made, such as using a thinner and mat acrylic and smaller magnets to prevent shades during the photo-digitalisation process. Additionally, building the grid board double size could provide all geometric shapes that help to build the tile decoration completely stable on the grid.
+
+Our reflections highlight the importance of technical details, such as material selection and magnet size, and the iterative design process required to achieve the desired outcome. We also recognize the need for further development, such as exploring 3D options and integrating electronics into the project. Overall, the project provided valuable experience in designing and building a DIY toolkit while also highlighting areas for improvement and further development.
+
 ## Project Alignment
 
 We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three circles show the intersection between our main interests.
@@ -37,38 +49,6 @@ Stage 1 - A 2D tile scale design pattern
 Stage 2 - 3D facade iteration
 
 Stage 3 - Public installation
-
-
-**References**
-
-We investigated some projects to take a look of what is already done and what we can contribute on. Also looking in different fields made us get inspired and develop our idea. Here we link some interesting projects:
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tangram.jpeg" width="50%" height="50%"/>
-[Tangram](https://en.wikipedia.org/wiki/Tangram)
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/bussoga.jpeg" width="50%" height="50%"/>
-[Bussoga](https://www.bussoga.com/en/tiling/)
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/facadetile.png" width="50%" height="50%"/>
-[Letters, Words, Numbers](https://www.instagram.com/p/CnM4iamOt5A/)
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/gertile.png" width="50%" height="50%"/>
-[Cèrcol](https://www.instagram.com/p/CEww6dRKY10/)
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/social.png" width="50%" height="50%"/>
-[Socialist Modernism in Germany](https://www.instagram.com/p/CgcPF26MuKQ/)
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/setter.png" width="50%" height="50%"/>
-[The key is to tell the tile setter not to worry about it - Jeff Shelton](https://www.instagram.com/p/CkeAuX7jl4E/)
-
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/Ltile.png" width="49%" height="49%"/>
-<img src="https://paresmarc.github.io/MDEF/images/term2/cha1/tilestrans.png" width="49%" height="49%"/>
 
 
 First Iteration
