@@ -9,7 +9,9 @@ I started this seminar so engaged. I was interested in learning how to use 3D Sc
 
 ## 3D Scanning
 
-I had some experience in 3D Scanning with my phone.
+I had some experience in 3D Scanning with my phone but I wanted to learn how to use a professional scanner and see the potential.
+
+I decided to 3D scan urban elements to have the digital models in 3D with precise proportions and dimensions. Once I had that, my idea was to model 3D shapes around the urban elements and 3D print them in order to place them around the city. This shapes would invade the city, making a kind of homogenous spread that grows and turns the strict look into a more interesting environment.
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds1.jpg" width="75%" height="75%"/>
 
@@ -30,7 +32,19 @@ I had some experience in 3D Scanning with my phone.
 
 ## 3D Printing
 
+I hadn't time to develop the project of urban elements so I decided to 3D print something else. Since I already have experience with FDM printers I wanted to use SLA ones.
+
 SLA — Resin 3D Printing
+
+I used an AI to generate a 3D model and I wanted to 3D print it without modifying it to see the details and the "defects".
+
+The prompt that i used was: A small ceramic cup to drink any sort of liquid.
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cup1.png" width="75%" height="75%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cup2.gif" width="75%" height="75%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cup3.png" width="75%" height="75%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin1.jpg" width="75%" height="75%"/>
 
