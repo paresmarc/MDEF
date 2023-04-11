@@ -38,11 +38,11 @@ nav:
         - Where Clay comes From?: INT/03-Where Clay comes From.md
     - Term 2:
       - Design Studio:
-        - Reframing by reflecting: DST2/01-Reframing by Reflecting.md
+        - Reframing by Reflecting: DST2/01-Reframing by Reflecting.md
         - Design Intervention in Context: DST2/06-Design Intervention in Context.md
-        - Network of co-responsibility: DST2/07-Network of co-responsibility.md
+        - Network of Co-Responsibility: DST2/07-Network of co-responsibility.md
         - Radical Situatedness: DST2/08-Radical Situatedness.md
-        - Exploring alternative presents: DST2/12-Exploring alternative presents.md
+        - Exploring Alternative Presents: DST2/12-Exploring alternative presents.md
       - Designing Next Billion Sec: Term2/02-Designing Next Billion Seconds.md
       - Future Talks: Term2/16-Future Talks.md
       - Remixing Materials: Term2/03-Remixing Materials.md
@@ -59,7 +59,7 @@ nav:
       - Making Sense and Meaning: Term2/13-Making Sense Meaning.md
       - Measuring the World: Term2/14-Measuring World.md
       - Interventions:
-        - Streaming Pottery:
+        - Streaming Pottery: INT/04-Streaming Pottery.md
 
 extra:
   social:
