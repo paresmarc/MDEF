@@ -7,6 +7,8 @@ hide:
 
 ## CNC
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc0.png" width="75%" height="75%"/>
+
 Prototype with Laser to test proportions and stability before CNC cutting.
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc1.jpg" width="75%" height="75%"/>
