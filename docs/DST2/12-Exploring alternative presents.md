@@ -37,4 +37,4 @@ Thinking of a Design Studio with this idea
 - Location of the studio next to the ceramic school of La Bisbal, seek collaboration from the students, give them knowledge and communication, receive ideas and labor in return. take advantage of the building under construction of the LB ceramics school to do the study, apply new tech machines and combination with a traditional ceramic workshop.
 
 
-### Learnings
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/present.png" width="100%" height="100%"/>

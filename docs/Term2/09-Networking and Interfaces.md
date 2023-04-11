@@ -11,9 +11,9 @@ During the networking lecture, we began by exploring the definition of a network
 
 We created a system to send and receive messages between devices, which was simple but very useful.
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/net0.png" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/net01.png" width="75%" height="75%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/net01.jpg" width="50%" height="50%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/net0.png" width="100%" height="100%"/>
 
 ## Interface: machine vs machine
 

@@ -23,6 +23,8 @@ To guide us in the project, we looked at reference projects like MIT's interacti
 
 4. Make the user interact with the Software. Incorporate Arduino
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cha2.png" width="100%" height="100%"/>
+
 Repo link Challenge II:
 
 https://github.com/paresmarc/pixelcubes
