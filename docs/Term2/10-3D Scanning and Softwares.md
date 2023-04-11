@@ -32,14 +32,17 @@ Abraded Wall
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds9.jpg" width="100%" height="100%"/>
 
 Bench Arm
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds7.jpg" width="45%" height="45%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc2.gif" width="45%" height="45%"/>
 
 Crashed Car
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds8.jpg" width="45%" height="45%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc1.gif" width="45%" height="45%"/>
 
 Litter and Bike Parking
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc3.gif" width="45%" height="45%"/>
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc4.gif" width="45%" height="45%"/>
 
