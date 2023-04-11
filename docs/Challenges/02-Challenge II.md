@@ -54,3 +54,9 @@ While working on the project, I realized that the group nature of the challenge 
 To sum up, I did learn a lot from the project, but the intense nature of the challenge week did not allow me to discover or learn more coding skills from my colleagues or instructors. Thus, I have doubts about the efficiency of the challenges.
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cubes.png" width="100%" height="100%"/>
+
+We tested the interaction and process during the Design Dialogues II
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/desdi.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/pixeldial.jpg" width="75%" height="75%"/>

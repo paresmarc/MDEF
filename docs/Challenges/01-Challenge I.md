@@ -11,7 +11,7 @@ A DIY ToolKit to design and decorate tiles and build unique pattern combinations
 
 ## Reflection
 
-This challenge made us work hard on something that we were not sure and confident in the begining. That helped us develop the project without having a final objective so we changed the design depending on the process problems and opportunities.
+This challenge made us work hard on something that we were not sure and confident in the beginning. That helped us develop the project without having a final objective so we changed the design depending on the process problems and opportunities.
 
 The project is a DIY toolkit for designing and creating unique tile decorations using a grid board made of acrylic and magnets. The group chose to focus on modularity, interchangeability, and personalization of the product.
 
@@ -195,3 +195,13 @@ With a single tile design you can create myriad pattern designs.
 To sum up, the grid board building process was a good experience to use the laser cutter after designing that on Rhinoceros and worked on the technical details to get the best results with the magnets we had to locate on the grid. The final result can be improved by using a thinner and mat acrylic and also by using smaller magnets. This will prevent the shades during the photo-digitalisation process and improve the quality of the edges of the tile decorations. Additionally, building it double size will provide all geometric shapes which helps to build the tile decoration completely stable on the grid.
 
 As a development plan; we can continue with 3D options but, we are not sure about how to integrate electronics on our project to develop for the next stages. One possibility would be to implement electronics in the digitalization process, making it more automatic and straight, so the interaction and the playful experience become more important.
+
+## Iteration with Fiducial IDs
+
+We combined the shapes with the Fiducial IDs so the system is more accurate and allow us to create perfect vectorised images.
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/desdi.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/destile.gif" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/tileid.jpg" width="100%" height="100%"/>
