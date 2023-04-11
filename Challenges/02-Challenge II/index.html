@@ -59,7 +59,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#challenge-i-tile-deco" class="md-skip">
+        <a href="#challenge-ii-pixel-cubes" class="md-skip">
           Skip to content
         </a>
       
@@ -787,22 +787,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#project-alignment" class="md-nav__link">
-    Project Alignment
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#project-development" class="md-nav__link">
-    Project Development
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#final-product" class="md-nav__link">
-    Final Product
+  <a href="#reflections" class="md-nav__link">
+    Reflections
   </a>
   
 </li>
@@ -915,22 +901,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#project-alignment" class="md-nav__link">
-    Project Alignment
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#project-development" class="md-nav__link">
-    Project Development
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#final-product" class="md-nav__link">
-    Final Product
+  <a href="#reflections" class="md-nav__link">
+    Reflections
   </a>
   
 </li>
@@ -951,45 +923,42 @@
                   
                 
                 
-                <h1 id="challenge-i-tile-deco">Challenge I: Tile Deco<a class="headerlink" href="#challenge-i-tile-deco" title="Permanent link">&para;</a></h1>
+                <h1 id="challenge-ii-pixel-cubes">Challenge II: Pixel Cubes<a class="headerlink" href="#challenge-ii-pixel-cubes" title="Permanent link">&para;</a></h1>
 <p>Caglar / Ahmed / Marc</p>
-<p>A DIY ToolKit to design and decorate tiles and build unique pattern combinations</p>
+<p>Modular system to create 3D digital models through physical interaction.</p>
 <p><strong>&ldquo;Playing in the physical and converting it to the digital&rdquo;</strong></p>
-<h2 id="project-alignment">Project Alignment<a class="headerlink" href="#project-alignment" title="Permanent link">&para;</a></h2>
-<p>We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three circles show the intersection between our main interests.</p>
-<h2 id="project-development">Project Development<a class="headerlink" href="#project-development" title="Permanent link">&para;</a></h2>
-<p><strong>Design Process</strong></p>
+<p>During the first challenge, I participated in a project where we developed a tile decorating kit with a focus on digitalization to make it easy and meaningful. Our initial goal for the second Challenge was to convert it from 2D to 3D, which led us to explore 3D fabrication techniques.</p>
+<p>To guide us in the project, we looked at reference projects like MIT&rsquo;s interactive shape-shifting table and Reactivision Improvisation with MIDI (Reactable). However, we had to simplify our goals due to the time constraints.</p>
+<p><strong>Design Steps:</strong></p>
 <ol>
 <li>
-<p>Grid board</p>
+<p>Interactive physical modular system to create myriad volumes</p>
 </li>
 <li>
-<p>Geometric pieces</p>
+<p>Research around webcam detection software of movement and rotation of shapes</p>
 </li>
 <li>
-<p>Pattern design</p>
+<p>How to combine and assemble cubes in order to create volumes</p>
 </li>
 <li>
-<p>Photo digitalisation (vector)</p>
-</li>
-<li>
-<p>Vinyl cutting</p>
-</li>
-<li>
-<p>Stencil</p>
-</li>
-<li>
-<p>Tile production</p>
-</li>
-<li>
-<p>Building pattern</p>
-</li>
-<li>
-<p><strong>Grid Board</strong></p>
+<p>Make the user interact with the Software. Incorporate Arduino</p>
 </li>
 </ol>
-<h2 id="final-product">Final Product<a class="headerlink" href="#final-product" title="Permanent link">&para;</a></h2>
-<p><strong>Conclusion</strong></p>
+<p>Repo link Challenge II:</p>
+<p><a href="https://github.com/paresmarc/pixelcubes">https://github.com/paresmarc/pixelcubes</a></p>
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFddcJntxw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+<p>Pixel Cubes by Marc Parés</p>
+<h2 id="reflections">Reflections<a class="headerlink" href="#reflections" title="Permanent link">&para;</a></h2>
+<p>Given that the project involved connecting the physical and digital, there were many details that needed to be solved. We decided to let people play, change, and combine cubes attached to a base-grid with magnets to build their unique design rather than sticking to 2D geometric shapes.</p>
+<p>We started with the digitalization process and thought carefully about how to convert physical items into digital representations. We discovered a system called &ldquo;fiducial ID,&rdquo; which works like QR codes (but with more organic shapes) through cameras. Each cube on the grid had a unique &ldquo;Fiducial ID,&rdquo; which gave it a parameter on the Z axis to help form a unique 3D design.</p>
+<p>However, we encountered challenges with the camera detecting the fiducials repeatedly, which created a lot of trash on the system. We ended up resetting the system to solve this issue.</p>
+<p>Besides the digitalization, we also worked on the physical object. Initially, we 3D printed the cubes, but it was not appropriate due to the long printing time. We ended up building the cubes out of wood and inserted the magnets on their surfaces using a magnet insert (nest) designed for each magnet. We also engraved the outlines and drew the fiducials by hand since vinyl did not stick properly to the wood.</p>
+<p>Moreover, we had trouble cutting the cubes out of the oak block, which was 33 mm thick. We had to carve the surface 3mm to get 30mm thickness, and we did that with the help of Adai and Edu. We discovered the facing function of the RhinoCam-CNC, which provided the carving function with the end-mill having a 30mm diameter. To eliminate material loss in CNC, Adai and I cut the cubes manually with a saw, which required a lot of attention and physical effort.</p>
+<p>We used the CNC machine to build the grid out of plywood and designed and laser-cut acrylic to build a structure to hold the camera above the grid. That structure could be located in different positions on the grid to capture the cubes clearly.</p>
+<p>During the project, we mostly used the grasshopper for digitalization, but we also added the arduino to use the firefly plug-in and a button to capture the desired design and build it with the 3D printer.</p>
+<p>While working on the project, I realized that the group nature of the challenge meant that most tasks had to be done by different colleagues, and each person ended up working on their area of expertise to use time efficiently. However, this resulted in a lack of opportunities to improve other skills, especially coding. I would have preferred more classes on coding, like the ones Oscar gave, to improve my coding skills. During each challenge, I was unable to improve my coding skills because, as a maker, I had to work on the machines and 3D modeling. Moreover, we didn&rsquo;t have much time to learn from my classmates.</p>
+<p>To sum up, I did learn a lot from the project, but the intense nature of the challenge week did not allow me to discover or learn more coding skills from my colleagues or instructors. Thus, I have doubts about the efficiency of the challenges.</p>
+<p><img src="https://paresmarc.github.io/MDEF/images/term2/draft/cubes.png" width="100%" height="100%"/></p>
                 
                   
                     
