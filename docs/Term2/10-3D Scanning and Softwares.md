@@ -23,12 +23,20 @@ I decided to 3D scan urban elements to have the digital models in 3D with precis
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds5.jpg" width="75%" height="75%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds6.jpg" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds7.jpg" width="45%" height="45%"/>
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds8.jpg" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc1.gif" width="45%" height="45%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds6.jpg" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds9.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/3ds8.jpg" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc2.gif" width="45%" height="45%"/>
+
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc3.gif" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/sc4.gif" width="45%" height="45%"/>
 
 ## 3D Printing
 
@@ -46,10 +54,10 @@ The prompt that i used was: A small ceramic cup to drink any sort of liquid.
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cup3.png" width="75%" height="75%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin1.jpg" width="75%" height="75%"/>
+Anycubic Photon M3 Plus
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin2.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin1.jpg" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin2.jpg" width="45%" height="45%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin3.jpg" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin4.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin3.jpg" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/resin4.jpg" width="45%" height="45%"/>

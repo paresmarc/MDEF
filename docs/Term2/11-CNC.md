@@ -41,7 +41,6 @@ Talking with Edu and Adai, we thought that these first two designs were too comp
 Prototype with Laser to test proportions and stability before CNC cutting.
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc1.jpg" width="45%" height="45%"/>
-
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc2.jpg" width="45%" height="45%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc3.jpg" width="75%" height="75%"/>
