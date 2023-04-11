@@ -26,6 +26,8 @@ https://impotsibleceramics.com/
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/stream/pottery.png" width="100%" height="100%"/>
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/stream/impot.png" width="100%" height="100%"/>
+
 **Streaming the Pottery Process**
 - Show the real process behind the final pieces
 
