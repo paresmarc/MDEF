@@ -20,3 +20,5 @@ Rhino CAM — Software to define settings for the CNC machine
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc4.jpg" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc5.jpg" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cnc6.jpg" width="100%" height="100%"/>

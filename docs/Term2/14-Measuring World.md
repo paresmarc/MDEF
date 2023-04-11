@@ -28,9 +28,9 @@ We decided to optimize the schedule of MDEF through the use of a physical interv
 
 We documented our findings on our hacked note, which can be accessed here: https://hackmd.io/V5oxTmRXTGC1IJY0ac_oAw
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/measure2.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/measure2.jpg" width="100%" height="100%"/>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/measure3.jpeg" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/measure3.jpg" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/draft/measure4.png" width="100%" height="100%"/>
 
