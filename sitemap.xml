@@ -176,6 +176,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://paresmarc.github.io/MDEF/Term3/01-Framing%20Design%20Intervention/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://paresmarc.github.io/MDEF/Term3/02-Distributed%20Design/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://paresmarc.github.io/MDEF/about/me/</loc>
          <lastmod>2023-04-12</lastmod>
          <changefreq>daily</changefreq>
