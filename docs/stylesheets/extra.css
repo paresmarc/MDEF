@@ -1,16 +1,16 @@
 :root>* {
 
     /* bar sup */
-    --md-primary-fg-color: rgb(64, 146, 133);
-    --md-primary-fg-color--light: rgb(64, 146, 133);
-    --md-primary-fg-color--dark: rgb(64, 146, 133);
+    --md-primary-fg-color: rgb(199, 136, 74);
+    --md-primary-fg-color--light: rgb(199, 136, 74);
+    --md-primary-fg-color--dark: rgb(199, 136, 74);
 
     /* footer up */
     --md-footer-bg-color: rgb(230, 230, 230);
     /* footer tipo */
     --md-footer-fg-color: rgb(0, 0, 0);
     /* footer down */
-    --md-footer-bg-color--dark: rgb(64, 146, 133);
+    --md-footer-bg-color--dark: rgb(199, 136, 74);
     /* footer link tipo */
     --md-footer-fg-color--lighter:  rgb(0, 0, 0);
     /* footer tipo */
@@ -19,20 +19,22 @@
     --mdc-typography-headline6-font-family: 'Montserrat', sans-serif;
     --mdc-typography-font-family: 'Montserrat', sans-serif;
 
+/* rgb(64, 146, 133);
+
     /*
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     */
 
     /* links */
-    --md-typeset-a-color: rgb(64, 146, 133);
+    --md-typeset-a-color: rgb(199, 136, 74);
     /* hover */
-    --md-accent-fg-color: rgb(64, 146, 133);
+    --md-accent-fg-color: rgb(199, 136, 74);
     /* background */
     --md-default-bg-color: rgb(248, 248, 248);
 
     /* color titles */
-    --md-default-fg-color--light: rgb(64, 146, 133);
+    --md-default-fg-color--light: rgb(199, 136, 74);
 
     /* icon sh */
     --md-default-fg-color--lighter: #00000000;
