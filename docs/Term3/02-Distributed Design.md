@@ -10,12 +10,12 @@ Furthermore, the seminar provided an overview of the DDP members, resources, and
 
 Overall, the seminar was informative and engaging, providing an excellent introduction to the field of Distributed Design and the DDP. The presentation successfully conveyed the importance of measuring impact, as well as the platform's values and resources, encouraging students to pursue opportunities in Distributed Design.
 
-<img src="https://paresmarc.github.io/MDEF/images/term3/ddp/mushroom.jpeg" width="100%" height="100%" />
+<img src="https://paresmarc.github.io/MDEF/images/term3/ddp/mushroom.png" width="100%" height="100%" />
 
 
 ## Assignment Class I
 
-<img src="https://paresmarc.github.io/MDEF/images/term3/ddp/assgn.jpeg" width="100%" height="100%" />
+<img src="https://paresmarc.github.io/MDEF/images/term3/ddp/assgn.png" width="100%" height="100%" />
 
 Learning Skills:
 During the seminar, I was able to develop my critical thinking skills by engaging with the essential topics related to the field of Distributed Design. As the seminar was conducted in English, it allowed me to practice my language skills and express my thoughts more detailed. Also, by talking and developing a fluid reasoning, I was able to understand the evolution of the DDP more thoroughly.
