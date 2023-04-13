@@ -61,7 +61,7 @@ Process of Mycelium pot fabrication
 
 Recipes
 
-1st recipe
+**1st recipe**
 
 45 grs. pine resin
 15 ml. alcohol
@@ -69,7 +69,7 @@ Recipes
 40/60 grs. food waste
 
 
-2nd recipe – extruder
+**2nd recipe – extruder**
 
 30 grs. corn starch
 250 ml. water
@@ -78,7 +78,7 @@ Recipes
 additives - photo 10 grs. red clay
 
 
-We made a scaled up recipe for 5 tests with variations in the amounts of coffee.
+*We made a scaled up recipe for 5 tests with variations in the amounts of coffee.*
 
 144 grs. gelatine
 720 ml. water
@@ -90,15 +90,14 @@ Coffee additive
 & rectangular w/ 3d texture)
 
 
-Gelatin Bioplastic
+**Gelatin Bioplastic**
 
 48 grs. gelatine
 240 ml. water
 12 grs. glycerin
 8gr chufa
 
-2 molds (circular
-& rectangular flat)
+*2 molds (circular & rectangular flat)*
 
 
 <iframe src="https://drive.google.com/file/d/1sOCz_yC2kxVrpgviTDLR3LeNfJMmLABv/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -109,13 +108,8 @@ Gelatin Bioplastic
 
 <iframe src="https://drive.google.com/file/d/1XMf3SABLqR1oEMPNwOx7V30QgasbQiJ6/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.png" width="75%" height="75%"/>
 
-Chufa
-
-
-
-Coffee
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -123,8 +117,10 @@ Coffee
 
 **3D printing Clay**
 
+How to 3D print paste with FDM modifyed printer.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dclay.jpg" width="100%" height="100%"/>
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dc.gif" width="100%" height="100%"/>
 
-
-## Concluision
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dc2.gif" width="100%" height="100%"/>
