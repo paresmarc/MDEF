@@ -110,6 +110,7 @@ Coffee additive
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.png" width="75%" height="75%"/>
 
+**Project Presentation:**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -119,8 +120,20 @@ Coffee additive
 
 How to 3D print paste with FDM modifyed printer.
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dclay.jpg" width="100%" height="100%"/>
-
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dc.gif" width="100%" height="100%"/>
 
+This seminar was on how to 3D print paste with an FDM modified printer, and it was a really interesting experience. The concept of printing with paste was completely new to me, and I was excited to learn about the process.
+
+The seminar started with the preparation of the clay. Edu explained that the clay needs to be properly textured and mixed with water to achieve the right consistency for printing. This step is critical, as the clay needs to be just right to ensure a successful print.
+
+After preparing the clay, we moved on to filling the cartridge and setting up the printer. This involved connecting the cartridge to the printer and then connecting the air pressure machine. Once everything was set up, we sliced the 3D model with Cura and generated the g-code file.
+
+Sending the g-code file to the printer was the next step, and this was where you will know if the slicing and the clay was good or not. I couldn't help but think that something could go wrong and ruin the entire process.
+
+Finally, it was time to print and hope for the best. I watched as the printer slowly but steadily extruded the clay paste and built up the layers of the model. It was amazing to see how the paste gradually took shape and formed the 3D model.
+
+Overall, the seminar was a great learning experience, and I gained a new appreciation for the world of 3D printing clay. The process of printing with paste was more complex than I had anticipated, but I left the seminar feeling excited and eager to try it out for myself.
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dc2.gif" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/3dclay.jpg" width="100%" height="100%"/>

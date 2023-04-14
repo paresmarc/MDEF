@@ -10,8 +10,8 @@ repo_url: 'https://paresmarc.github.io/MDEF/'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
+  - Master Project:
+      - Initial Ideas: project/project.md
       - Design Space: project/design-space.md
 
 #  - Design Studio:
