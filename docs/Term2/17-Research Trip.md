@@ -2,7 +2,7 @@
 
 ## First Ideas
 
-My idea for a research trip video to El Hierro. The main goal of this project is to document the beautiful natural landscapes found on this island. I want to capture the unique textures of the environment and compare them to the textures found in Barcelona city.
+My idea for the Research Trip video to El Hierro. The main goal of this project is to document the beautiful natural landscapes found on this island. I want to capture the unique textures of the environment and compare them to the textures found in Barcelona city.
 
 One aspect that I find particularly interesting is the comparison between skins and surfaces. I want to explore how our sense of touch changes when we interact with different places. How does the feeling of touching the volcanic rocks on El Hierro differ from the feeling of touching a building in Barcelona?
 
@@ -19,7 +19,7 @@ Overall, I believe this research trip video to El Hierro will be an exciting opp
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/818474545?h=2e2110b82e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MarcPares_memory"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-## Video
+## El Hierro Textures
 
 So, for my final project idea, I want to create a research trip video in El Hierro. My main goal is to document the textures of the local natural landscape, to understand how we interact with things and how shapes can change our quality of life.
 
@@ -27,6 +27,14 @@ I'm particularly interested in making a comparison between different skins and s
 
 To capture these textures, I plan to use 3D scanning technology to scan natural textures, shapes, and other elements like plants, trees, rocks, water, and so on. The idea is to create a detailed database of all these textures that can be analyzed later.
 
-Another concept that I want to explore is the idea of context decontextualization. In other words, I want to propose a game where the user can't recognize the context because the video only shows the textures. It will be raw shapes that the user can analyze freely. This concept is particularly interesting because it allows us to explore the textures without any preconceived notions or biases based on the context.
+Another concept that I want to explore is the idea of decontextualization. In other words, I want to propose a game where the user can't recognize the context because the video only shows the textures. It will be raw shapes that the user can analyze freely. This concept is particularly interesting because it allows us to explore the textures without any preconceived notions or biases based on the context.
 
 Overall, I believe that this research trip video will be a fascinating exploration of textures, shapes, and the natural landscape in El Hierro. It will be a valuable resource for anyone interested in design, architecture, and the natural world.
+
+## Digital Textures
+
+The aim of this project is to digitally capture and preserve objects and textures from nature and replicate them in different media. In order to achieve this, the organic forms must be converted into a polygonal mesh, with the level of decimation determining the accuracy of preservation. However, a key question arises: to what extent does the decimation process compromise the authenticity of the organic shape? At what point does the structure become unrecognizable?
+
+This project challenges the notion of preserving living organisms, structures, and sacred objects through photogrammetry, and explores the potential benefits of promoting a sustainable relationship with nature. By preserving these forms digitally, we can avoid causing physical damage to the real-world objects, while also fostering greater appreciation for their beauty and importance.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/818474545?h=2e2110b82e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MarcPares_memory"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
