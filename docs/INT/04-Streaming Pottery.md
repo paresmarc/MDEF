@@ -16,7 +16,9 @@ My idea is to go back to video tutorials, where the aim was to communicate how t
 I was contacted by a pottery studio to collaborate on some kind of project, and I took advantage of the opportunity to explain this idea. They were really engaged from the first moment, they found it interesting to connect more with new generations but also with other ceramicists.
 
 *Impotsible Ceramics*
+
 Eulàlia & Georgina
+
 https://impotsibleceramics.com/
 
 
