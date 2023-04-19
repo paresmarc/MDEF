@@ -50,7 +50,7 @@ Process of Mycelium pot fabrication
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium1.png" width="100%" height="100%"/>
 
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgetG07JE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgetG07JE/view?embed"> </iframe>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium2.png" width="100%" height="100%"/>
 
@@ -113,11 +113,11 @@ Coffee additive
 
 ## Coffee
 
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgevHrjIE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgevHrjIE/view?embed"> </iframe>
 
 **Project Presentation:**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ## Prototyping materials
 

@@ -23,7 +23,7 @@ To guide us in the project, we looked at reference projects like MIT's interacti
 
 4. Make the user interact with the Software. Incorporate Arduino
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cha2.png" width="100%" height="100%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cha2.png" width="75%" height="75%"/>
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -62,8 +62,6 @@ During the project, we mostly used the grasshopper for digitalization, but we al
 While working on the project, I realized that the group nature of the challenge meant that most tasks had to be done by different colleagues, and each person ended up working on their area of expertise to use time efficiently. However, this resulted in a lack of opportunities to improve other skills, especially coding. I would have preferred more classes on coding, like the ones Oscar gave, to improve my coding skills. During each challenge, I was unable to improve my coding skills because, as a maker, I had to work on the machines and 3D modeling. Moreover, we didn't have much time to learn from my classmates.
 
 To sum up, I did learn a lot from the project, but the intense nature of the challenge week did not allow me to discover or learn more coding skills from my colleagues or instructors. Thus, I have doubts about the efficiency of the challenges.
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/draft/cubes.png" width="100%" height="100%"/>
 
 We tested the interaction and process during the Design Dialogues II
 
