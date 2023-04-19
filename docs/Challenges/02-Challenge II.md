@@ -49,6 +49,10 @@ However, we encountered challenges with the camera detecting the fiducials repea
 
 Besides the digitalization, we also worked on the physical object. Initially, we 3D printed the cubes, but it was not appropriate due to the long printing time. We ended up building the cubes out of wood and inserted the magnets on their surfaces using a magnet insert (nest) designed for each magnet. We also engraved the outlines and drew the fiducials by hand since vinyl did not stick properly to the wood.
 
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/pixelcubes.gif" width="100%" height="100%"/>
+
+<img src="https://paresmarc.github.io/MDEF/images/term2/draft/pixelcubes2.gif" width="100%" height="100%"/>
+
 Moreover, we had trouble cutting the cubes out of the oak block, which was 33 mm thick. We had to carve the surface 3mm to get 30mm thickness, and we did that with the help of Adai and Edu. We discovered the facing function of the RhinoCam-CNC, which provided the carving function with the end-mill having a 30mm diameter. To eliminate material loss in CNC, Adai and I cut the cubes manually with a saw, which required a lot of attention and physical effort.
 
 We used the CNC machine to build the grid out of plywood and designed and laser-cut acrylic to build a structure to hold the camera above the grid. That structure could be located in different positions on the grid to capture the cubes clearly.

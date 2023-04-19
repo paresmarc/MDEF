@@ -50,6 +50,8 @@ Process of Mycelium pot fabrication
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium1.png" width="100%" height="100%"/>
 
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgetG07JE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium2.png" width="100%" height="100%"/>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium3.png" width="100%" height="100%"/>
@@ -102,13 +104,16 @@ Coffee additive
 
 <iframe src="https://drive.google.com/file/d/1sOCz_yC2kxVrpgviTDLR3LeNfJMmLABv/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa2.jpg" width="75%" height="75%"/>
-
-<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa3.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa2.jpg" width="45%" height="45%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa3.jpg" width="45%" height="45%"/>
 
 <iframe src="https://drive.google.com/file/d/1XMf3SABLqR1oEMPNwOx7V30QgasbQiJ6/preview" width="640" height="480" allow="autoplay"></iframe>
 
-<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.png" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/chufa5.png" width="100%" height="100%"/>
+
+## Coffee
+
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgevHrjIE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
 
 **Project Presentation:**
 
