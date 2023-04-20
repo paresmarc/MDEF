@@ -48,7 +48,7 @@ Cups to sell horchata in Ice Cream Shops. Not single-use items, but items that c
 
 Process of Mycelium Pot Fabrication
 
-<iframe loading="lazy" width: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgetG07JE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
+<iframe loading="lazy" width: 750px; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAFgetG07JE/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe>
 
 <img src="https://paresmarc.github.io/MDEF/images/term2/remixmat/mycelium1.png" width="100%" height="100%"/>
 
