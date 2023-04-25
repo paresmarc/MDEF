@@ -39,9 +39,13 @@ This project challenges the notion of preserving living organisms, structures, a
 
 **Final Video**
 
-Capturing El Hierro Wild Textures
+Capturing El Hierro wild textures
 
-How digitization changes our interaction with textures?
+How we perceive textures?
+and how can they be translated to digital?
+
+How does digitalization enhance our interaction with textures?
+
 Finding the limit of texture recognition without context
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/820433427?h=4fbeb90de9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MarcPares_ElHierroTextures.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
