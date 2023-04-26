@@ -29,7 +29,7 @@ To capture these textures, I plan to use 3D scanning technology to scan natural 
 
 Another concept that I want to explore is the idea of decontextualization. In other words, I want to propose a game where the user can't recognize the context because the video only shows the textures. It will be raw shapes that the user can analyze freely. This concept is particularly interesting because it allows us to explore the textures without any preconceived notions or biases based on the context.
 
-Overall, I believe that this research trip video will be a fascinating exploration of textures, shapes, and the natural landscape in El Hierro. It will be a valuable resource for anyone interested in design, architecture, and the natural world.
+This research trip video will be a fascinating exploration of textures, shapes, and the natural landscape in El Hierro. It will be a valuable resource for anyone interested in design, architecture, and the natural world.
 
 ## Digital Textures
 
@@ -41,11 +41,12 @@ This project challenges the notion of preserving living organisms, structures, a
 
 Capturing El Hierro wild textures
 
-How we perceive textures?
-and how can they be translated to digital?
+— How we perceive textures? and how can they be translated to digital?
 
-How does digitalization enhance our interaction with textures?
+— How does digitalization enhance our interaction with textures?
 
-Finding the limit of texture recognition without context
+— Finding the limit of texture recognition without context.
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/820433427?h=4fbeb90de9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MarcPares_ElHierroTextures.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Music: *Sigur Rós, Ekki Múkk*
