@@ -1,6 +1,6 @@
 # Robots
 
-Arm Robot
+## ABB Six Axis Robot from ASCAM
 
 **Manual Control**
 

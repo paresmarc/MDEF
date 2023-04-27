@@ -70,6 +70,7 @@ nav:
       - Digital Prototyping:
         - Robots: Term3/04-Robots.md
         - Blender: Term3/05-Blender.md
+        - Human Interface: Term3/06-Human Interface.md
 
 extra:
   social:
