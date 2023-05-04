@@ -11,6 +11,7 @@ This seminar, about Blender as Interface, focused on the Python interface of Ble
 <img src="https://paresmarc.github.io/MDEF/images/term3/dipro/blender/blend2.gif" width="100%" height="100%" />
 
 **Blender + Phyton + Arduino**
+
 Led Strip
 
 <img src="https://paresmarc.github.io/MDEF/images/term3/dipro/blender/blend3.gif" width="100%" height="100%" />

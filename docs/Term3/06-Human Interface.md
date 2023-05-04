@@ -5,6 +5,7 @@ This seminar about Livecoding as Human Interface, provided me with an excellent 
 **Hydra Ojack**
 
 Live coding video synth
+
 https://hydra.ojack.xyz/
 
 <img src="https://paresmarc.github.io/MDEF/images/term3/dipro/human/hydra1.gif" width="100%" height="100%" />
