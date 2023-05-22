@@ -61,7 +61,7 @@ nav:
       - Interventions:
         - Streaming Pottery: INT/04-Streaming Pottery.md
         - Exploring my Past: INT/05-Exploring my Past.md
-      - Research Trip: Term2/17-Research Trip.md
+    - Research Trip: Term2/17-Research Trip.md
     - Term 3:
       - Design Studio:
         - Framing Design Intervention: Term3/01-Framing Design Intervention.md
@@ -71,8 +71,9 @@ nav:
         - Robots: Term3/04-Robots.md
         - Blender: Term3/05-Blender.md
         - Human Interface: Term3/06-Human Interface.md
-      - Design Ethics: Term3/07-Design Ethics.md
+      - Design Ethics & Transfeminist: Term3/07-Design Ethics.md
       - Decentralized A. Organizations: Term3/08-Decentralized Organizations.md
+      - Challenge III Digital Tiles: Challenges/02-Challenge III.md
 
 extra:
   social:

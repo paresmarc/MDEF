@@ -2,10 +2,10 @@
 hide:
     - toc
 ---
-# Challenge II: Pixel Cubes
+# Challenge III: Digital Tiles
 Caglar / Ahmed / Marc
 
-Modular system to create 3D digital models through physical interaction.
+A DIY ToolKit to design and build tiles through a process that combines physical interaction and digitalisation.
 
 **"Playing in the physical and converting it to the digital"**
 
