@@ -2,7 +2,7 @@
 
 ## First Ideas
 
-My idea for the Research Trip video to El Hierro. The main goal of this project is to document the beautiful natural landscapes found on this island. I want to capture the unique textures of the environment and compare them to the textures found in Barcelona city.
+The main goal of this project is to document the beautiful natural landscapes found on this island. I want to capture the unique textures of the environment and compare them to the textures found in Barcelona city.
 
 One aspect that I find particularly interesting is the comparison between skins and surfaces. I want to explore how our sense of touch changes when we interact with different places. How does the feeling of touching the volcanic rocks on El Hierro differ from the feeling of touching a building in Barcelona?
 
