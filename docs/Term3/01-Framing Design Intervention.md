@@ -90,7 +90,6 @@ This intervention also will be part of the MDEFest, where we will try to show pe
 <img src="https://paresmarc.github.io/MDEF/images/term3/int/t6.png" width="100%" height="100%" />
 
 <img src="https://paresmarc.github.io/MDEF/images/term3/int/t7.png" width="48%" height="48%" />
-
 <img src="https://paresmarc.github.io/MDEF/images/term3/int/t9.png" width="48%" height="48%" />
 
 <img src="https://paresmarc.github.io/MDEF/images/term3/int/t8.png" width="100%" height="100%" />

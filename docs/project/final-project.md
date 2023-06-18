@@ -5,7 +5,10 @@ hide:
 
 # Final Project
 
-## Exploring the Intersection of Traditional Ceramics and Modern Technologies
+## Exploring the intersection of traditional ceramics and modern technologies
+
+### Bridging traditional ceramics with innovative technologies
+**Can modern tools redefine the artisan process of traditional ceramics?**
 
 This master's project delves into the convergence of traditional ceramics and modern technologies, with the objective of bridging the gap between rich ceramic heritage and contemporary design approaches. Through extensive research and engagement with traditional artisans, the project identifies challenges faced by craftsmen and their adaptability in response to changing times.
 
