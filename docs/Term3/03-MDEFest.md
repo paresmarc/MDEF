@@ -19,3 +19,9 @@ As we continued to work together, we identified the different working groups and
 Finally, we discussed the overall agenda and approaches to communication and outreach. This included determining the different channels we would use to promote the festival and reach out to potential attendees. It was important to consider how we would communicate the festival's theme and sub-themes in a way that would resonate with the target audience.
 
 Overall, the seminars provided me with a lot of valuable insights into the process of planning and organizing a festival. I learned that it takes a lot of teamwork, communication, and careful consideration to create an event that is both engaging and impactful.
+
+## NO(-)BODY KNOWS: Fantastic quimeras of the future
+
+<img src="https://paresmarc.github.io/MDEF/images/term3/fest/CLAWS1.png" width="100%" height="100%" />
+
+<img src="https://paresmarc.github.io/MDEF/images/term3/fest/CLAWS2.png" width="100%" height="100%" />

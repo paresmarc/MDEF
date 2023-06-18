@@ -41,7 +41,7 @@ This project challenges the notion of preserving living organisms, structures, a
 
 Capturing El Hierro wild textures
 
-— How we perceive textures? and how can they be translated to digital?
+— How do we perceive textures? and how can they be translated to digital?
 
 — How does digitalization enhance our interaction with textures?
 

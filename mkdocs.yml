@@ -12,7 +12,8 @@ nav:
   - About: about/me.md
   - Master Project:
       - Initial Ideas: project/project.md
-      - Design Space: project/design-space.md
+      - Design Space I: project/design-space.md
+      - Final Project: project/final-project.md
 
 #  - Design Studio:
 #      - Bootcamp: DS/01-Bootcamp.md
@@ -64,7 +65,8 @@ nav:
     - Research Trip: Term2/17-Research Trip.md
     - Term 3:
       - Design Studio:
-        - Framing Design Intervention: Term3/01-Framing Design Intervention.md
+        - Framing Design Interventions: Term3/01-Framing Design Intervention.md
+        - Designing Myself Out: Term3/09-Designing Myself Out.md
       - Distributed Design: Term3/02-Distributed Design.md
       - MDEFest: Term3/03-MDEFest.md
       - Digital Prototyping:
