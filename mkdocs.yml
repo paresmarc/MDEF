@@ -8,7 +8,7 @@ site_url: 'https://paresmarc.github.io/MDEF/'
 repo_url: 'https://paresmarc.github.io/MDEF/'
 
 nav:
-  - Home: index.md
+#  - Home: index.md
   - About: about/me.md
   - Master Project:
       - Initial Ideas: project/project.md
