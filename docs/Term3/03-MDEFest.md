@@ -22,6 +22,6 @@ Overall, the seminars provided me with a lot of valuable insights into the proce
 
 ## NO(-)BODY KNOWS: Fantastic quimeras of the future
 
-<img src="https://paresmarc.github.io/MDEF/images/term3/fest/CLAWS1.png" width="100%" height="100%" />
-
 <img src="https://paresmarc.github.io/MDEF/images/term3/fest/CLAWS2.png" width="100%" height="100%" />
+
+<img src="https://paresmarc.github.io/MDEF/images/term3/fest/CLAWS1.png" width="100%" height="100%" />

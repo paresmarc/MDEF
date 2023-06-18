@@ -19,6 +19,8 @@ Ceramics is part of the popular culture of many populations, but there are fewer
 
 For all this, this project aims to re-evaluate ceramics, with its traditional techniques, and bring it closer to modern society. Combining craftsmanship with innovative production processes and bringing them to the FabLab concept. The duality of craft and technology, digital crafts, local materials and traditions, gamification, local production and international distribution, co-creation, material development, and biomaterial experimentation are some of the intrinsic concepts of the project.
 
-**Questioning**
-
 How is there a boom in ceramics in Barcelona, while at the same time traditional ceramists are losing their heritage?
+
+# Design Space
+
+<iframe width="100%" height="500" src="https://miro.com/app/live-embed/uXjVPOjb84I=/?moveToViewport=-2517,-7533,3713,3705&embedId=635327442260" frameborder="0" scrolling="no" allowfullscreen></iframe>

@@ -29,7 +29,8 @@ I developed my design space as it was growing, making every new piece of content
 
 I am delving into the world of ceramics, where I aim to create a meaningful impact and bring about change. The context in which I am working is one where people are increasingly seeking mindfulness and personal rejuvenation through ceramics. However, I believe there is more to ceramics than just a self-centered experience, and I am designing a system that challenges this notion.
 
-Alternative Present: Blending Tradition with Modern Technology My goal is to revive old crafting techniques and items by blending them with modern technology, appealing to younger generations and emphasizing the value of handcrafted products. I am committed to promoting transparency in the production process, adopting an opensource approach.
+Alternative Present:
+Blending Tradition with Modern Technology My goal is to revive old crafting techniques and items by blending them with modern technology, appealing to younger generations and emphasizing the value of handcrafted products. I am committed to promoting transparency in the production process, adopting an opensource approach.
 
 A significant aspect of my project would involve recovering ceramic pieces lost during the Spanish Civil War and subsequent repression. I am particularly focused on the work of Marian Burguès, a renowned ceramicist who is also my great-grandfather. By searching for these lost pieces and utilizing new technologies, such as 3D printing, AI, and 3D scanning, I aim to recreate and reinterpret them in contemporary ways.
 
@@ -38,6 +39,7 @@ innovative technologies, I aim to make the project more engaging and attractive 
 One intriguing idea I am currently exploring is using AI to create reinterpretations of preserved ceramic pieces, incorporating elements from the past into new designs. This involves careful consideration of how to train AI models using historical concepts. By fusing the past with futuristic tools, I hope to revive and reinterpret traditional ceramics in a novel and compelling manner.
 
 **Traditional pieces updated with AI?**
+
 I started working on an AI model named Text 2 Mesh that modifies 3D models through text Prompts. It was challenging to use this model because some codes were outdated but at the end, I managed to use it and some outputs were impressive. It remains some work to correctly define some variables to have more control on the outputs. After having the modified models of the traditional pieces, the idea would be to 3D print them with clay machines and reflect on the differences between the original one and the AI one.
 
 Working on this thesis project has been an exhilarating journey, combining elements of tradition, technology, local traditions, and lost ceramics. The prospect of bridging the gap between the past and the present through critical thinking and the application of AI is both unique and captivating. I am eagerly looking forward to the future and the possibilities this project holds, as it unfolds in ways that inspire and challenge me.

@@ -8,19 +8,19 @@ About my project, I want to keep exploring about traditional practices as cerami
 
 Here are some main fields that I want to be part of my journey:
 
-1. Ceramics and traditions: I recognize the significance of ceramics and traditional craftsmanship as a foundation for my project. I aim to bridge the gap between traditional practices and modern technologies, exploring innovative approaches while honoring the rich heritage of ceramics.
+1. **Ceramics and traditions:** I recognize the significance of ceramics and traditional craftsmanship as a foundation for my project. I aim to bridge the gap between traditional practices and modern technologies, exploring innovative approaches while honoring the rich heritage of ceramics.
 
-2. Digital crafts and 3D printing: I am excited about integrating digital crafts and 3D printing into my ceramic production processes. This integration opens up new possibilities for design, customization, and scalability, allowing me to create unique and personalized ceramic pieces.
+2. **Digital crafts and 3D printing:** I am excited about integrating digital crafts and 3D printing into my ceramic production processes. This integration opens up new possibilities for design, customization, and scalability, allowing me to create unique and personalized ceramic pieces.
 
-3. Maker movement and accessibility: I believe in the power of the maker movement to promote accessibility in ceramics and digital crafts. By actively involving individuals and communities in the creative process, I aim to empower people and create an inclusive environment for everyone to participate in ceramic making.
+3. **Maker movement and accessibility:** I believe in the power of the maker movement to promote accessibility in ceramics and digital crafts. By actively involving individuals and communities in the creative process, I aim to empower people and create an inclusive environment for everyone to participate in ceramic making.
 
-4. Participative Design Process and collaborations: I embrace the concept of Participative Design Process and seek opportunities to collaborate with other experts in the field. Whether it's partnering with traditional ceramists, digital artists, makerspaces, or educational institutions, I value the exchange of knowledge and expertise to enhance my project.
+4. **Participative Design Process and collaborations:** I embrace the concept of Participative Design Process and seek opportunities to collaborate with other experts in the field. Whether it's partnering with traditional ceramists, digital artists, makerspaces, or educational institutions, I value the exchange of knowledge and expertise to enhance my project.
 
-5. Scalability and replicability: As I work on my project, scalability and replicability are important considerations. I want to develop methods that can be applied to different scales, from individual projects to larger events or productions. This ensures that my approach can be adapted and implemented in various contexts.
+5. **Scalability and replicability:** As I work on my project, scalability and replicability are important considerations. I want to develop methods that can be applied to different scales, from individual projects to larger events or productions. This ensures that my approach can be adapted and implemented in various contexts.
 
-6. Accessibility through digital platforms: I recognize the value of digital platforms in making ceramics and digital crafts accessible. Through websites and social media, I can share resources, tutorials, and information about my project. This way, people from different locations and backgrounds can access the knowledge and tools I provide.
+6. **Accessibility through digital platforms:** I recognize the value of digital platforms in making ceramics and digital crafts accessible. Through websites and social media, I can share resources, tutorials, and information about my project. This way, people from different locations and backgrounds can access the knowledge and tools I provide.
 
-7. Sustainability and preservation of traditions: I am committed to sustainability and the preservation of traditional ceramic practices. I strive to explore environmentally friendly production techniques, promote cultural heritage, and engage with local communities. By doing so, I ensure the continuity of ceramic traditions and contribute to a more sustainable future.
+7. **Sustainability and preservation of traditions:** I am committed to sustainability and the preservation of traditional ceramic practices. I strive to explore environmentally friendly production techniques, promote cultural heritage, and engage with local communities. By doing so, I ensure the continuity of ceramic traditions and contribute to a more sustainable future.
 
 In conclusion, the combination of these points provides a solid foundation for my project. I am particularly passionate about traditional ceramics in Catalonia, especially in La Bisbal, where I have a personal connection. The slow pace and rural atmosphere of these areas inspire me to create meaningful work that reflects the local community.
 

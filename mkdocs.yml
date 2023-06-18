@@ -12,7 +12,7 @@ nav:
   - About: about/me.md
   - Master Project:
       - Initial Ideas: project/project.md
-      - Design Space I: project/design-space.md
+#      - Design Space I: project/design-space.md
       - Final Project: project/final-project.md
 
 #  - Design Studio:
